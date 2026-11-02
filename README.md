@@ -20,6 +20,14 @@ The displayed company name is HI TECH and the address is Rola, Dungari, Valsad. 
 
 After downloading or rebuilding source pages, run `.\rebrand.ps1` in PowerShell to reapply the branding, then `.\rebrand.ps1 -Check` to validate it. Original page routes are retained so existing internal links continue to work. Downloaded photographs, product packaging and PDF documents are not edited, and may still contain the original manufacturer's branding.
 
+## Context Photography
+
+Contextual photography is refreshed across the HTML pages while authentic product photographs, named staff portraits, customer logos, branding, interface graphics, and documentary artwork are retained. The manually selected homepage banners, product-category covers, and application photos are retained as already refreshed.
+
+Run `python refresh-images.py --self-test` for the focused rewrite checks. Run `python refresh-images.py --check` to verify local replacement files, complete coverage, and unchanged protected-image reference counts. The source-to-replacement decisions are listed in `image-refresh-report.json`.
+
+After rebuilding the source pages, run `python refresh-images.py --apply` after the branding step, then run `--check`. Keep the existing replacement photo folders. New stock photos are illustrative and do not depict actual HI TECH staff, premises, projects, or certifications. Licensing information is in [Context Photography Credits](images/site-photos/CREDITS.md) and [Application Photo Credits](images/applications/CREDITS.md).
+
 ## Limitations
 
 This is a front-end snapshot, not the original backend. Forms do not submit. Social media, maps and YouTube embeds remain online services; only directly referenced downloadable video files can be saved. Unlinked private pages cannot be discovered. Obtain permission before publishing the site's branding and media.

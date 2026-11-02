@@ -14,6 +14,25 @@
 .banner .items .row {
     min-height: calc(100vh - 70px);
     align-items: center;
+    margin-inline: 0;
+}
+
+.banner .items figure::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(255, 255, 255, .94) 0%, rgba(255, 255, 255, .76) 36%, rgba(255, 255, 255, .08) 72%);
+    pointer-events: none;
+}
+
+.banner .items figure img {
+    object-position: center;
+}
+
+@media (max-width: 767px) {
+    .banner .items figure::after {
+        background: linear-gradient(90deg, rgba(255, 255, 255, .92), rgba(255, 255, 255, .58));
+    }
 }
 
 .slider-pp {
