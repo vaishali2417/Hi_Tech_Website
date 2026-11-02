@@ -1,0 +1,287 @@
+@font-face {
+    font-family: 'Swis721 Cn BT';
+    src: url("Swiss-Cn-BT.ttf") format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Swis721 Cn LT';
+    src: url("Swiss 721 Condensed.ttf") format('truetype');
+    font-style: normal;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Swis721 Cn BT", sans-serif;
+    --prime: #6C016B;
+    --sec: #91B43E;
+    --border-radius: 10px 0px 10px 10px;
+}
+
+main {
+    min-height: 60vh;
+}
+
+p,
+.fw-light {
+    font-family: "Swis721 Cn LT", sans-serif;
+}
+
+p.fw-bold,
+.fw-bold {
+    font-family: "Swis721 Cn BT", sans-serif;
+}
+
+.text-prime {
+    color: var(--prime);
+}
+
+.text-sec {
+    color: var(--sec);
+}
+
+.bg-sec {
+    background: var(--sec);
+}
+
+.bg-sec-lt {
+    background: #D6EAAE;
+}
+
+.bg-prime {
+    background: var(--prime);
+}
+
+.bg-prime-lt {
+    background: #6A236B10;
+}
+
+.border-radius {
+    border-radius: var(--border-radius);
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.w-fit {
+    width: fit-content;
+}
+
+.left-bar{
+    border-left: 8px solid var(--sec);
+    padding-left: 20px;
+}
+
+.btn-prime{
+    background-color: var(--prime);
+    border: 2px solid var(--prime);
+    color: #fff;
+    padding: 14px 24px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: var(--border-radius);
+    transition: background-color .4s ease-in-out, color .4s ease-in-out;
+}
+.btn-prime:hover{
+    background-color: transparent;
+    color: var(--prime);
+}
+
+.btn-sec{
+    background-color: transparent;
+    border: 2px solid var(--sec);
+    color: var(--prime);
+    padding: 14px 24px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: var(--border-radius);
+    transition: background-color .4s ease-in-out, color .4s ease-in-out;
+}
+.btn-sec:hover{
+    background-color: var(--sec);
+    color: #fff;
+}
+
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+header nav {
+    background: rgba(0, 0, 0, 0.70) !important;
+    backdrop-filter: blur(50px);
+    color: #fff !important;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.navbar .nav-item {
+    margin: auto 8px;
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+footer{
+    background: #494949;
+    padding: 50px 10px 20px;
+}
+
+footer ul{
+    list-style-type: none;
+    padding: 0px;
+    width: max-content;
+}
+footer ul li {
+    padding: 5px 0px;
+    transition: all .4s ease-in-out;
+}
+footer ul li:hover{
+    transform: translateX(6px);
+}
+footer ul li a{
+    color: #fff !important;
+    width: 100%;
+}
+
+.hero{
+    position: relative;
+}
+
+.hero img{
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero .content{
+    position: relative;
+    text-align: center;
+    padding: 70px 30px;
+}
+
+.hero .content h1{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.hero .content p,
+.hero .content a{
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+.srch-cat{
+    padding: 60px 40px;
+    background: #6C016B20;
+}
+
+.search input{
+    width: 100%;
+    outline: none;
+    padding: 10px 20px;
+    padding-right: 40px;
+    border: none;
+}
+
+.search button{
+    position: absolute;
+    right: 5px;
+    top: 55%;
+    transform: translateY(-50%);
+    border: none;
+    background: none;
+}
+
+.categories{
+    background: #fff;
+    padding:10px 30px;
+}
+
+.categories ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.categories ul li::before{
+    content: '•';
+    color: var(--prime);
+    margin-right: 7px;
+}
+
+.categories ul li{
+    margin-top: 6px;
+}
+
+.categories ul li a{
+    color: #000;
+}
+
+.tags{
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.tags a{
+    color: #000;
+    background: #ccc;
+    padding: 10px 16px;
+    text-transform: uppercase;
+}
+
+
+.sharenow{
+    background:none;
+    border:none;
+    width: 40px;
+    cursor: pointer;
+}
+
+.blog-content{
+    position:relative;
+    overflow:  !important;
+}
+
+.sharebuttons{
+    position: absolute;
+    right:-100%;
+    bottom: 60px;
+    opacity: 0;
+    width:fit-content;
+    gap: 8px;
+    transition:all .3s ease-in-out;
+    display:flex;
+gap:10px;
+background:#fff;
+padding: 4px 20px;
+}
+
+.sharebuttons.active{
+    right:0;
+    opacity: 1;
+    transition:all .3s ease-in-out;
+}
+
+.lead30{
+    line-height:30px;
+}

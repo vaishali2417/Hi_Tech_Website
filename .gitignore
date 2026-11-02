@@ -1,0 +1,9 @@
+.mirror-cache/
+.runtime/
+__pycache__/
+*.py[cod]
+*.part
+node_modules/
+.env
+.env.*
+!.env.example
