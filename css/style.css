@@ -142,10 +142,19 @@ header nav {
     background: rgba(0, 0, 0, 0.70) !important;
     backdrop-filter: blur(50px);
     color: #fff !important;
+    min-height: 74px;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+}
+
+.navbar-brand {
+    padding-block: 0;
 }
 
 .navbar-brand img {
-    height: 40px;
+    width: 84px;
+    height: 60px;
+    object-fit: contain;
 }
 
 .navbar .nav-item {

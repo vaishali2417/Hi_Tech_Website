@@ -1,4 +1,4 @@
-# Ascolite Local Website
+# HI TECH Local Website
 
 Static HTML copy of public pages linked from https://ascolite.in/, using the original Bootstrap, CSS, JavaScript, images and downloadable media.
 
@@ -13,6 +13,12 @@ Run `python mirror.py --retry-failed` to retry unavailable downloads. Run `pytho
 Run `python serve.py`, then open http://127.0.0.1:8081/. Use `--port 8082` if that port is already occupied. The threaded preview server supports Python 3.6 and later.
 
 Pages are ordinary HTML files; no PHP server, Node.js, build step or database is needed. The original site uses Bootstrap 5.3.2, Owl Carousel and AOS alongside custom styles.
+
+## Branding
+
+The displayed company name is HI TECH and the address is Rola, Dungari, Valsad. The shared logo is an SVG recreation of the supplied artwork, maintained in `images/svg/hi-tech-logo.svg` and copied to `images/svg/logo.svg`.
+
+After downloading or rebuilding source pages, run `.\rebrand.ps1` in PowerShell to reapply the branding, then `.\rebrand.ps1 -Check` to validate it. Original page routes are retained so existing internal links continue to work. Downloaded photographs, product packaging and PDF documents are not edited, and may still contain the original manufacturer's branding.
 
 ## Limitations
 
