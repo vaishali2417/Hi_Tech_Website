@@ -235,9 +235,9 @@
   z-index:104 !important;  
 }
 }
-</style>    <title>Contact Ascolite | Get in Touch for Building Solutions and Support</title>
-    <meta name="description" content="Need assistance or have inquiries about Ascolite’s building solutions? Contact us today for expert support, product information, and personalized service. We&#x27;re here to help with all your construction needs." these elements are tailored to improve seo performance, making it easier for users seeking contact with ascolite to find the page and get the support they need.">
-    <meta name="keywords" content="Contact Ascolite, get in touch, building materials support, customer service, construction solutions inquiries, Ascolite contact information, reach Ascolite">
+</style>    <title>Contact HI TECH | Get in Touch for Building Solutions and Support</title>
+    <meta name="description" content="Need assistance or have inquiries about HI TECH’s building solutions? Contact us today for expert support, product information, and personalized service. We&#x27;re here to help with all your construction needs." these elements are tailored to improve seo performance, making it easier for users seeking contact with hi-tech to find the page and get the support they need.">
+    <meta name="keywords" content="Contact HI TECH, get in touch, building materials support, customer service, construction solutions inquiries, HI TECH contact information, reach HI TECH">
     <style>
     .grid {
         display: grid;
@@ -387,7 +387,7 @@
                         <a class="nav-link" href="contact/index.html">Contact Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="career/index.html">Life At Ascolite</a>
+                        <a class="nav-link" href="career/index.html">Life At HI TECH</a>
                     </li>
                                             <li class="nav-item">
                             <a class="nav-link search-modal" href="javascript:void();">
@@ -649,7 +649,7 @@
     <div class="productsdetails">
         <button class="closemenu fs-5">&times;</button>
                     <div class="productitem" id="product5">
-                <!--<img src="https://ascolite.in/uploads/images/1735729056-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729056-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729056-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSCREED</h5>
                 <p>ASCOSCREED is a concentrated cement binder specifically formulated for floor scr...</p>
@@ -660,7 +660,7 @@
 
             </div>
                     <div class="productitem" id="product8">
-                <!--<img src="https://ascolite.in/uploads/images/1735729485-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729485-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729485-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> GENX</h5>
                 <p>FIXOBOND® GENX is a cementitious polymer tile adhesive in a grey color, design...</p>
@@ -671,7 +671,7 @@
 
             </div>
                     <div class="productitem" id="product9">
-                <!--<img src="https://ascolite.in/uploads/images/1726208028-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726208028-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726208028-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>® </span></h5>
                 <p>FIXOBOND® is a cement-based polymer modified grey color tile adhesive that off...</p>
@@ -682,7 +682,7 @@
 
             </div>
                     <div class="productitem" id="product10">
-                <!--<img src="https://ascolite.in/uploads/images/1735729157-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729157-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729157-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> +</h5>
                 <p>FIXOBOND® + (available in white or grey) is a cement-based adhesive with advan...</p>
@@ -693,7 +693,7 @@
 
             </div>
                     <div class="productitem" id="product11">
-                <!--<img src="https://ascolite.in/uploads/images/1739788972-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1739788972-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1739788972-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> PRIME</h5>
                 <p>FIXOBOND® PRIME  is a high-strength cement-based polymer-enriched adhesive tha...</p>
@@ -704,7 +704,7 @@
 
             </div>
                     <div class="productitem" id="product12">
-                <!--<img src="https://ascolite.in/uploads/images/1735729391-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729391-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729391-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> FLEX</h5>
                 <p>FIXOBOND® FLEX is a high-performance, self-curing, and flexible tile adhesive ...</p>
@@ -715,7 +715,7 @@
 
             </div>
                     <div class="productitem" id="product13">
-                <!--<img src="https://ascolite.in/uploads/images/1735729330-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729330-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729330-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> FLEX +</h5>
                 <p>FIXOBOND® FLEX+ is a single-component, self-curing tile adhesive that offers h...</p>
@@ -726,7 +726,7 @@
 
             </div>
                     <div class="productitem" id="product14">
-                <!--<img src="https://ascolite.in/uploads/images/1735729831-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729831-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729831-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>® </sup>PU</h5>
                 <p>FIXOBOND® PU is a versatile adhesive comprising two components, featuring a mo...</p>
@@ -737,7 +737,7 @@
 
             </div>
                     <div class="productitem" id="product15">
-                <!--<img src="https://ascolite.in/uploads/images/1735729988-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729988-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729988-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOPRIME  BT</h5>
                 <p>FIXOPRIME BT is a single-component, acrylic ester-based primer specifically form...</p>
@@ -748,7 +748,7 @@
 
             </div>
                     <div class="productitem" id="product16">
-                <!--<img src="https://ascolite.in/uploads/images/1726047786-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726047786-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726047786-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> AD</h5>
                 <p>FIXOBOND® AD is formulated utilizing a unique blend of macromolecular latex, a...</p>
@@ -759,7 +759,7 @@
 
             </div>
                     <div class="productitem" id="product17">
-                <!--<img src="https://ascolite.in/uploads/images/1726047934-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726047934-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726047934-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFINE GROUT</h5>
                 <p>ASCOFINE GROUT is a cement-based grout enhanced with notable polymer modificatio...</p>
@@ -770,7 +770,7 @@
 
             </div>
                     <div class="productitem" id="product18">
-                <!--<img src="https://ascolite.in/uploads/images/1735728882-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735728882-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735728882-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFINE GROUT S30</h5>
                 <p>ASCOFINE GROUT S30, a polymer-modified sanded grout renowned for its high qualit...</p>
@@ -781,7 +781,7 @@
 
             </div>
                     <div class="productitem" id="product19">
-                <!--<img src="https://ascolite.in/uploads/images/1735728955-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735728955-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735728955-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY / ASCOPOXY III</h5>
                 <p>ASCOPOXY / ASCOPOXY III is an advanced solvent-free epoxy resin grout & adhesive...</p>
@@ -792,7 +792,7 @@
 
             </div>
                     <div class="productitem" id="product20">
-                <!--<img src="https://ascolite.in/uploads/images/1726048508-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726048508-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726048508-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOCLEAN TILEX</h5>
                 <p>ASCOCLEAN TILEX is an excellent tile cleaner, featuring high-performance, singl...</p>
@@ -803,7 +803,7 @@
 
             </div>
                     <div class="productitem" id="product21">
-                <!--<img src="https://ascolite.in/uploads/images/1726231210-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726231210-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726231210-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOREPELL SX</h5>
                 <p>ASCOREPELL SX represents a solvent-based silane siloxane water repellent cum sea...</p>
@@ -814,7 +814,7 @@
 
             </div>
                     <div class="productitem" id="product22">
-                <!--<img src="https://ascolite.in/uploads/images/1726050486-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726050486-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726050486-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFIX BJM/TBM</h5>
                 <p>ASCOFIX&nbsp;BJM /&nbsp;TBM&nbsp;&nbsp;is a pre-mixed, self-curing &amp; non-shr...</p>
@@ -825,7 +825,7 @@
 
             </div>
                     <div class="productitem" id="product23">
-                <!--<img src="https://ascolite.in/uploads/images/1726050567-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726050567-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726050567-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFIX GPM</h5>
                 <p>ASCOFIX GPM is a premixed high quality self - curing Medium bed mortar for joi...</p>
@@ -836,7 +836,7 @@
 
             </div>
                     <div class="productitem" id="product24">
-                <!--<img src="https://ascolite.in/uploads/images/1726055157-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726055157-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726055157-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPLAST BOND</h5>
                 <p>ASCOPLAST BOND is a polymer-based, exterior/interior grade bonding&nbsp;agent de...</p>
@@ -847,7 +847,7 @@
 
             </div>
                     <div class="productitem" id="product25">
-                <!--<img src="https://ascolite.in/uploads/images/1726054121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726054121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726054121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">READY MIX MORTAR</h5>
                 <p>READY MIX MORTAR is a pre-mixed cement-based solution that substitutes the trad...</p>
@@ -858,7 +858,7 @@
 
             </div>
                     <div class="productitem" id="product26">
-                <!--<img src="https://ascolite.in/uploads/images/1726055117-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726055117-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726055117-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">READY MIX MORTAR (FR)</h5>
                 <p>READY FOR MORTAR (FR) with 6 mm PP/glass Fiber is a pre-mixed cement-based solu...</p>
@@ -869,10 +869,10 @@
 
             </div>
                     <div class="productitem" id="product27">
-                <!--<img src="https://ascolite.in/uploads/images/1726055236-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726055236-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726055236-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">GYPBOND</h5>
-                <p>Ascolite Gypbond is a light green colored liquid, ready to use, the high build b...</p>
+                <p>HI TECH Gypbond is a light green colored liquid, ready to use, the high build b...</p>
 
                 
                 <a href="products/walling-solutions/bonding-agents/gypbond/index.html" class="btn-sec text-uppercase d-flex justify-content-center">View
@@ -880,7 +880,7 @@
 
             </div>
                     <div class="productitem" id="product28">
-                <!--<img src="https://ascolite.in/uploads/images/1726055316-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726055316-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726055316-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPUTTY<sup>®</sup></h5>
                 <p>ASCOPUTTY®&nbsp;is a highly polymer modified, self-curing efflorescence resista...</p>
@@ -891,7 +891,7 @@
 
             </div>
                     <div class="productitem" id="product29">
-                <!--<img src="https://ascolite.in/uploads/images/1726055359-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726055359-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726055359-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPUTTY<sup>®</sup>CS</h5>
                 <p>ASCOPUTTY®CS is a highly polymer-modified, self-curing &amp; efflorescence-resi...</p>
@@ -902,18 +902,18 @@
 
             </div>
                     <div class="productitem" id="product30">
-                <!--<img src="https://ascolite.in/uploads/images/1726211912-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726211912-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726211912-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOBOND LATEX</h5>
                 <p>ASCOBOND LATEX is a styrene-butadiene (SBR) copolymer synthetic latex. It acts a...</p>
 
                 
-                <a href="products/waterproofing-systems/bonding-agents/wwwascoliteinproductswaterproofing-solutionsascobond/index.html" class="btn-sec text-uppercase d-flex justify-content-center">View
+                <a href="products/waterproofing-systems/bonding-agents/wwwhi-techinproductswaterproofing-solutionsascobond/index.html" class="btn-sec text-uppercase d-flex justify-content-center">View
                     Products</a>
 
             </div>
                     <div class="productitem" id="product31">
-                <!--<img src="https://ascolite.in/uploads/images/1726133188-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726133188-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726133188-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup> +</h5>
                 <p>ASCOPRIME®+ is an advanced acrylic primer that has excellent adhesion and seal...</p>
@@ -924,7 +924,7 @@
 
             </div>
                     <div class="productitem" id="product32">
-                <!--<img src="https://ascolite.in/uploads/images/1719900121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1719900121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1719900121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup>SUPER</h5>
                 <p>ASCOPRIME®SUPER is an advanced latex-based synthetic primer having excellent a...</p>
@@ -935,7 +935,7 @@
 
             </div>
                     <div class="productitem" id="product33">
-                <!--<img src="https://ascolite.in/uploads/images/1726128771-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726128771-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726128771-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup> ULTRA</h5>
                 <p>ASCOPRIME® ULTRA is an advanced acrylate dispersion polymer-based sealer coat...</p>
@@ -946,7 +946,7 @@
 
             </div>
                     <div class="productitem" id="product34">
-                <!--<img src="https://ascolite.in/uploads/images/1719915918-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1719915918-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1719915918-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup> EP</h5>
                 <p>ASCOPRIME®EP is a two-component, low VOC, epoxy primer designed for maximum ad...</p>
@@ -957,7 +957,7 @@
 
             </div>
                     <div class="productitem" id="product35">
-                <!--<img src="https://ascolite.in/uploads/images/1726133131-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726133131-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726133131-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>® </sup>EP 100</h5>
                 <p>ASCOPRIME® EP 100 is a two-component, low VOC, epoxy primer designed for maxi...</p>
@@ -968,7 +968,7 @@
 
             </div>
                     <div class="productitem" id="product36">
-                <!--<img src="https://ascolite.in/uploads/images/1726129268-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726129268-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726129268-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPROOF<sup>®</sup> IW+</h5>
                 <p>ASCOPROOF® IW+ Integral liquid waterproofing  is a liquid additive that provi...</p>
@@ -979,7 +979,7 @@
 
             </div>
                     <div class="productitem" id="product37">
-                <!--<img src="https://ascolite.in/uploads/images/1726129392-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726129392-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726129392-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOBOND 450</h5>
                 <p>ASCOBOND 450 is a styrene-butadiene rubber latex-based material, designed to im...</p>
@@ -990,7 +990,7 @@
 
             </div>
                     <div class="productitem" id="product38">
-                <!--<img src="https://ascolite.in/uploads/images/1726129541-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726129541-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726129541-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOBOND AR</h5>
                 <p>ASCOBOND AR is a multipurpose acrylic latex liquid bonding agent with concrete,...</p>
@@ -1001,7 +1001,7 @@
 
             </div>
                     <div class="productitem" id="product40">
-                <!--<img src="https://ascolite.in/uploads/images/1726130247-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130247-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130247-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSEAL<sup>®</sup> CL</h5>
                 <p>ASCOSEAL® CL is a single-component cement-based penetrating crystalline water...</p>
@@ -1012,7 +1012,7 @@
 
             </div>
                     <div class="productitem" id="product41">
-                <!--<img src="https://ascolite.in/uploads/images/1726130274-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130274-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130274-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSEAL<sup>®</sup> CL II</h5>
                 <p>ASCOSEAL®CL II is a two-component fast-setting cement-based crystalline coating...</p>
@@ -1023,7 +1023,7 @@
 
             </div>
                     <div class="productitem" id="product42">
-                <!--<img src="https://ascolite.in/uploads/images/1726130121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOCRETE II</h5>
                 <p>ASCOCRETE II is the two-part acrylic modified underlayment cementitious coating,...</p>
@@ -1034,7 +1034,7 @@
 
             </div>
                     <div class="productitem" id="product43">
-                <!--<img src="https://ascolite.in/uploads/images/1726130178-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130178-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130178-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFLEX<sup>®</sup> II</h5>
                 <p>ASCOFLEX®II is an elastomeric, 2-part, highly flexible &amp; elastomeric&nbsp;w...</p>
@@ -1045,7 +1045,7 @@
 
             </div>
                     <div class="productitem" id="product44">
-                <!--<img src="https://ascolite.in/uploads/images/1739790021-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1739790021-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1739790021-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGUARD PRIME</h5>
                 <p>ASCOGUARD PRIME is a specially developed fiber-enriched, elastic, and resilient...</p>
@@ -1056,7 +1056,7 @@
 
             </div>
                     <div class="productitem" id="product45">
-                <!--<img src="https://ascolite.in/uploads/images/1726130588-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130588-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130588-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFLEX<sup>®</sup>SUPER</h5>
                 <p>ASCOFLEX® SUPER is a thin load-bearing membrane composed of a modified synthe...</p>
@@ -1067,7 +1067,7 @@
 
             </div>
                     <div class="productitem" id="product46">
-                <!--<img src="https://ascolite.in/uploads/images/1726130661-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130661-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130661-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSHIELD<sup>®</sup> PU+</h5>
                 <p>ASCOSHIELD®PU+ is specially formulated with modified acrylic PU polymers, addi...</p>
@@ -1078,7 +1078,7 @@
 
             </div>
                     <div class="productitem" id="product47">
-                <!--<img src="https://ascolite.in/uploads/images/1726130733-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130733-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130733-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGUARD</h5>
                 <p>ASCOGUARD is a liquid-applied acrylic emulsion-based elastomeric coating. It ca...</p>
@@ -1089,7 +1089,7 @@
 
             </div>
                     <div class="productitem" id="product48">
-                <!--<img src="https://ascolite.in/uploads/images/1726130774-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130774-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130774-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGLAZE</h5>
                 <p>Specially formulated as a clear waterproofing sealer which is ideal for use on ...</p>
@@ -1100,7 +1100,7 @@
 
             </div>
                     <div class="productitem" id="product49">
-                <!--<img src="https://ascolite.in/uploads/images/1726130863-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130863-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130863-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY DPC</h5>
                 <p>ASCOPOXY DPC is a highly penetrating type of nontoxic epoxy coating having exce...</p>
@@ -1111,7 +1111,7 @@
 
             </div>
                     <div class="productitem" id="product50">
-                <!--<img src="https://ascolite.in/uploads/images/1726130911-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726130911-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726130911-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY TL 100</h5>
                 <p>ASCOPOXY TL 100 is a 2-component epoxy compound with high-grade epoxy resin & m...</p>
@@ -1122,7 +1122,7 @@
 
             </div>
                     <div class="productitem" id="product51">
-                <!--<img src="https://ascolite.in/uploads/images/1720001528-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1720001528-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1720001528-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY ARC</h5>
                 <p>ASCOPOXY ARC is a two-component heavy-duty epoxy coating formulated from solven...</p>
@@ -1133,7 +1133,7 @@
 
             </div>
                     <div class="productitem" id="product52">
-                <!--<img src="https://ascolite.in/uploads/images/1726133063-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726133063-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726133063-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSEAL TAPE ROLL</h5>
                 <p>ASCOSEAL TAPE ROLL is ideal for sealing internal & external surfaces that requi...</p>
@@ -1144,7 +1144,7 @@
 
             </div>
                     <div class="productitem" id="product53">
-                <!--<img src="https://ascolite.in/uploads/images/1726059725-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059725-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059725-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOBOND EP</h5>
                 <p>ASCOBOND EP is a high-strength, solvent-free epoxy bonding agent specially form...</p>
@@ -1155,7 +1155,7 @@
 
             </div>
                     <div class="productitem" id="product54">
-                <!--<img src="https://ascolite.in/uploads/images/1726059587-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059587-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059587-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup> RUSTCON</h5>
                 <p>ASCOPRIME® RUSTCON is a liquid coating that reacts & converts rust to a stabl...</p>
@@ -1166,7 +1166,7 @@
 
             </div>
                     <div class="productitem" id="product55">
-                <!--<img src="https://ascolite.in/uploads/images/1726059634-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059634-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059634-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFILL</h5>
                 <p>ASCOFILL is a specially modified single component, high strength, non-shrink cr...</p>
@@ -1177,7 +1177,7 @@
 
             </div>
                     <div class="productitem" id="product56">
-                <!--<img src="https://ascolite.in/uploads/images/1721823638-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1721823638-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1721823638-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFILL ES</h5>
                 <p>ASCOFILL ES is a single component special acrylic-based purpose ready-to-use ac...</p>
@@ -1188,7 +1188,7 @@
 
             </div>
                     <div class="productitem" id="product57">
-                <!--<img src="https://ascolite.in/uploads/images/1726059673-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059673-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059673-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGROUT<sup>® </sup>EP – LV</h5>
                 <p>ASCOGROUT® EP – LV is a two-part, very low viscous, non-shrink epoxy
@@ -1200,7 +1200,7 @@ injec...</p>
 
             </div>
                     <div class="productitem" id="product58">
-                <!--<img src="https://ascolite.in/uploads/images/1724487756-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1724487756-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1724487756-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGROUT<sup>®</sup>65</h5>
                 <p>ASCOGROUT® 65 is a specially modified multipurpose, high-low, non-shrink & ce...</p>
@@ -1211,7 +1211,7 @@ injec...</p>
 
             </div>
                     <div class="productitem" id="product60">
-                <!--<img src="https://ascolite.in/uploads/images/1726142790-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726142790-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726142790-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGROUT<sup>®</sup>(40/50/80)</h5>
                 <p>Ascogrout®(40/50/80) is specially engineered, cement-based, non-ferrous, non-s...</p>
@@ -1222,7 +1222,7 @@ injec...</p>
 
             </div>
                     <div class="productitem" id="product61">
-                <!--<img src="https://ascolite.in/uploads/images/1726140079-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726140079-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726140079-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGROUT<sup>®</sup>EP 100</h5>
                 <p>ASCOGROUT®EP 100 is a 3-component, 100% solids, VOC free, epoxy resin system d...</p>
@@ -1233,7 +1233,7 @@ injec...</p>
 
             </div>
                     <div class="productitem" id="product62">
-                <!--<img src="https://ascolite.in/uploads/images/1726058819-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726058819-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726058819-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOREPAIR<sup>® </sup>CRM</h5>
                 <p>ASCOREPAIR®CRM is a high-strength, shrinkage-compensated concrete repair mortar...</p>
@@ -1244,7 +1244,7 @@ injec...</p>
 
             </div>
                     <div class="productitem" id="product63">
-                <!--<img src="https://ascolite.in/uploads/images/1726058909-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726058909-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726058909-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOREPAIR<sup>®</sup> RTM</h5>
                 <p>ASCOREPAIR® RTM is a high build, excellent strength, Polymer modied bre�...</p>
@@ -1255,7 +1255,7 @@ injec...</p>
 
             </div>
                     <div class="productitem" id="product64">
-                <!--<img src="https://ascolite.in/uploads/images/1726058944-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726058944-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726058944-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOREPAIR<sup>®</sup> RAPID</h5>
                 <p>ASCOREPAIR® RAPID incorporates high-grade cement systems and
@@ -1267,7 +1267,7 @@ advanced polyme...</p>
 
             </div>
                     <div class="productitem" id="product65">
-                <!--<img src="https://ascolite.in/uploads/images/1726059114-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059114-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059114-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOCRETE MC (20/40/60)</h5>
                 <p>ASCOCRETE MC&nbsp;(20/40/60)&nbsp;is a pre-mixed blend of advanced
@@ -1279,7 +1279,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product66">
-                <!--<img src="https://ascolite.in/uploads/images/1726059165-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059165-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059165-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup>PS</h5>
                 <p>ASCOPRIME®PS is a single-part liquid primer that prepares non-porous surfaces ...</p>
@@ -1290,7 +1290,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product67">
-                <!--<img src="https://ascolite.in/uploads/images/1735729015-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729015-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729015-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSCREED SL</h5>
                 <p>ASCOSCREED SL is an exclusively designed single-component, free-flowing cementit...</p>
@@ -1301,10 +1301,10 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product68">
-                <!--<img src="https://ascolite.in/uploads/images/1726054004-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726054004-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726054004-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FLY ASH BLOCKS</h5>
-                <p>Ascolite Fly Ash Blocks are used as a substitute for conventional building mason...</p>
+                <p>HI TECH Fly Ash Blocks are used as a substitute for conventional building mason...</p>
 
                 
                 <a href="products/walling-solutions/fly-ash-blocks-or-autoclaved-aerated-concrete-blocks/fly-ash-blocks/index.html" class="btn-sec text-uppercase d-flex justify-content-center">View
@@ -1312,7 +1312,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product69">
-                <!--<img src="https://ascolite.in/uploads/images/1726059200-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059200-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059200-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSEAL PU</h5>
                 <p>ASCOSEAL PU is a specially developed single-part, low modulus, moisture curing, ...</p>
@@ -1323,7 +1323,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product70">
-                <!--<img src="https://ascolite.in/uploads/images/1726059255-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059255-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059255-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPLUG</h5>
                 <p>ASCOPLUG is an ultra-rapid setting water-resistant hydraulic cement repair compo...</p>
@@ -1334,7 +1334,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product71">
-                <!--<img src="https://ascolite.in/uploads/images/1726059536-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059536-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059536-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY PUTTY</h5>
                 <p>ASCOPOXY PUTTY is an epoxy-based two-component high-strength, thixotropic repai...</p>
@@ -1345,7 +1345,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product72">
-                <!--<img src="https://ascolite.in/uploads/images/1724483150-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1724483150-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1724483150-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPRIME<sup>®</sup> ZINCGUARD</h5>
                 <p>ASCOPRIME®ZINCGUARD is an epoxy resin-based two-component electrochemical zinc ...</p>
@@ -1356,7 +1356,7 @@ cement, spec...</p>
 
             </div>
                     <div class="productitem" id="product75">
-                <!--<img src="https://ascolite.in/uploads/images/1726059346-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059346-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059346-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOREPAIR ERM</h5>
                 <p>ASCOREPAIR ERM is specially formulated to perform structural repairs to any
@@ -1368,7 +1368,7 @@ ove...</p>
 
             </div>
                     <div class="productitem" id="product76">
-                <!--<img src="https://ascolite.in/uploads/images/1726303775-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726303775-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726303775-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGROUT (20/50/65) GG</h5>
                 <p>ASCOGROUT 50 GG is a specially engineered, cement-based, non-ferrous,
@@ -1380,7 +1380,7 @@ non-shrin...</p>
 
             </div>
                     <div class="productitem" id="product77">
-                <!--<img src="https://ascolite.in/uploads/images/1726059398-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059398-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059398-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOTOP FH 111</h5>
                 <p>ASCOTOP FH 111 is a mixture of finely graded non-metallic quartz
@@ -1392,7 +1392,7 @@ aggregates, p...</p>
 
             </div>
                     <div class="productitem" id="product78">
-                <!--<img src="https://ascolite.in/uploads/images/1726059481-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726059481-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726059481-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOTOP FH 333</h5>
                 <p>ASCOTOP FH 333 is an anti-corrosive metallic granules-based floor hardener
@@ -1404,7 +1404,7 @@ form...</p>
 
             </div>
                     <div class="productitem" id="product79">
-                <!--<img src="https://ascolite.in/uploads/images/1726126118-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1726126118-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1726126118-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOSEAL PS </h5>
                 <p>ASCOSEAL PS is specifically designed to be used as a watertight seal for
@@ -1416,7 +1416,7 @@ moder...</p>
 
             </div>
                     <div class="productitem" id="product80">
-                <!--<img src="https://ascolite.in/uploads/images/1735730061-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735730061-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735730061-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> TILE LOCK </h5>
                 <p>      FIXOBOND® TILE LOCK is a special green strength buildup powder additive t...</p>
@@ -1427,7 +1427,7 @@ moder...</p>
 
             </div>
                     <div class="productitem" id="product84">
-                <!--<img src="https://ascolite.in/uploads/images/1767789629-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1767789629-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1767789629-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOFLEX BITUCOAT</h5>
                 <p>ASCOFLEX® BITUCOAT is a single-component, cold-applied, latex-modified bitumen...</p>
@@ -1438,7 +1438,7 @@ moder...</p>
 
             </div>
                     <div class="productitem" id="product87">
-                <!--<img src="https://ascolite.in/uploads/images/1742466484-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1742466484-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1742466484-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> GRIP</h5>
                 <p>FIXOBOND® GRIP (available in grey) is an ordinary Portland cement-based polyme...</p>
@@ -1449,7 +1449,7 @@ moder...</p>
 
             </div>
                     <div class="productitem" id="product88">
-                <!--<img src="https://ascolite.in/uploads/images/1735729688-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1735729688-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1735729688-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND<sup>®</sup> PRO</h5>
                 <p>FIXOBOND® PRO (available in grey/white) is a highly polymer-modified ordinary P...</p>
@@ -1460,7 +1460,7 @@ moder...</p>
 
             </div>
                     <div class="productitem" id="product89">
-                <!--<img src="https://ascolite.in/uploads/images/1778923673-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1778923673-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1778923673-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOGROUT PR</h5>
                 <p>ASCOGROUT PR is a two-component, thixotropic 
@@ -1472,7 +1472,7 @@ polyester resin-based anchoring  ...</p>
 
             </div>
                     <div class="productitem" id="product90">
-                <!--<img src="https://ascolite.in/uploads/images/1752733436-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1752733436-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1752733436-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY VISTA</h5>
                 <p>ASCOPOXY VISTA is a cement-based grout enhanced with notable polymer modificatio...</p>
@@ -1483,7 +1483,7 @@ polyester resin-based anchoring  ...</p>
 
             </div>
                     <div class="productitem" id="product91">
-                <!--<img src="https://ascolite.in/uploads/images/1752742081-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1752742081-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1752742081-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOPOXY GLOW</h5>
                 <p>ASCOPOXY GLOW is a high-performance, self-illuminating epoxy grout designed for ...</p>
@@ -1494,7 +1494,7 @@ polyester resin-based anchoring  ...</p>
 
             </div>
                     <div class="productitem" id="product92">
-                <!--<img src="https://ascolite.in/uploads/images/1772783839-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1772783839-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1772783839-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOTITE LIQUID LOCK</h5>
                 <p>ASCOTITE LIQUID LOCK is a high-strength, two-part multipurpose epoxy adhesive ...</p>
@@ -1505,7 +1505,7 @@ polyester resin-based anchoring  ...</p>
 
             </div>
                     <div class="productitem" id="product93">
-                <!--<img src="https://ascolite.in/uploads/images/1767789045-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1767789045-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1767789045-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOTITE MEGABOND</h5>
                 <p>ASCOTITE MEGABOND is a high-strength, two-part
@@ -1517,7 +1517,7 @@ epoxy adhesive designed for per...</p>
 
             </div>
                     <div class="productitem" id="product94">
-                <!--<img src="https://ascolite.in/uploads/images/1781677469-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1781677469-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1781677469-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FIXOBOND® DW</h5>
                 <p>FIXOBOND® DW is a versatile polyurethane adhesive formulated for application ov...</p>
@@ -1528,7 +1528,7 @@ epoxy adhesive designed for per...</p>
 
             </div>
                     <div class="productitem" id="product95">
-                <!--<img src="https://ascolite.in/uploads/images/1792148929-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
+                <!--<img src="https://hi-tech.in/uploads/images/1792148929-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
                                 <img src="uploads/images/1792148929-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">ASCOCLEAN TILEX PRO</h5>
                 <p>ASCOCLEAN TILEX PRO is an advanced, high-performance universal cleaner designed ...</p>
@@ -1926,7 +1926,7 @@ epoxy adhesive designed for per...</p>
                     <div class="productitem" id="aproduct27">
                 <img src="images/webp/product-2.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">GYPBOND</h5>
-                <p>Ascolite Gypbond is a light green colored liquid, ready to use, the high build b</p>
+                <p>HI TECH Gypbond is a light green colored liquid, ready to use, the high build b</p>
                 <a href="application/index.html" class="btn-sec text-uppercase d-flex justify-content-center">View
                     Products</a>
             </div>
@@ -2202,7 +2202,7 @@ cement, spec</p>
                     <div class="productitem" id="aproduct68">
                 <img src="images/webp/product-2.webp" alt="" class="w-75 mx-auto img-fluid d-block">
                 <h5 class="fs-2 mt-4 text-uppercase">FLY ASH BLOCKS</h5>
-                <p>Ascolite Fly Ash Blocks are used as a substitute for conventional building mason</p>
+                <p>HI TECH Fly Ash Blocks are used as a substitute for conventional building mason</p>
                 <a href="application/index.html" class="btn-sec text-uppercase d-flex justify-content-center">View
                     Products</a>
             </div>
@@ -2562,8 +2562,8 @@ epoxy adhesive designed for per</p>
                     <div class="grid text-white p-5 position-absolute top-0 left-0 w-100 h-100" style="z-index: 3;">
                         <div class="d-flex flex-column pe-3 px-lg-5 custscroll" style="height:100%; overflow-y:auto">
                             <h2 class="text-uppercase mb-4">Our Presence </h2>
-                            <h4 class="mb-4 fs-5">Ascolite's commitment to delivering engineered building materials extends across multiple regions in India.                            </h4>
-                            <p><span style="font-size: 0.9375rem;">Expanding beyond Gujarat, Ascolite ventured into Maharashtra and Madhya Pradesh, strategically positioning itself as a multi-state player in the building materials sector. Next ahead in Southern India, from our warehouse in Tamil Nadu, we continue to expand our footprints. This expansion reflects our continuous effort to support local development projects.</span><br></p>                        </div>
+                            <h4 class="mb-4 fs-5">HI TECH's commitment to delivering engineered building materials extends across multiple regions in India.                            </h4>
+                            <p><span style="font-size: 0.9375rem;">Expanding beyond Gujarat, HI TECH ventured into Maharashtra and Madhya Pradesh, strategically positioning itself as a multi-state player in the building materials sector. Next ahead in Southern India, from our warehouse in Tamil Nadu, we continue to expand our footprints. This expansion reflects our continuous effort to support local development projects.</span><br></p>                        </div>
 
                     </div>
                 </div>
@@ -2573,7 +2573,7 @@ epoxy adhesive designed for per</p>
         <section id="map">
             <div class="container-fluid px-3 pb-5 px-lg-5" data-aos="fade-up">
                 <div class="map-container">
-                    <iframe src=" https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.003716115144!2d72.833920474139!3d21.14125418390749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be05128c3528a4b%3A0x459bd437c32bb9ad!2sAswani%20Industries%20Pvt%20Ltd!5e1!3m2!1sen!2sin" allowfullscreen="" width="100%" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                    <iframe src=" https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.003716115144!2d72.833920474139!3d21.14125418390749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be05128c3528a4b%3A0x459bd437c32bb9ad!2sHI TECH%20Industries%20Pvt%20Ltd!5e1!3m2!1sen!2sin" allowfullscreen="" width="100%" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                     </iframe>
                 </div>
             </div>
@@ -2609,7 +2609,7 @@ epoxy adhesive designed for per</p>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <h3 class="text-white fs-5">LOCATION</h3>
-                <p class="lead30">Aswani Industries Pvt Ltd
+                <p class="lead30">HI TECH Industries Pvt Ltd
 150, GIDC, Pandesara Road, Laxmi Narayan Nagar, Pandesara GIDC, Udhana, Surat, Gujarat 394221</p>
 
                 <a href="contact/index.html#map" class="text-white text-decoration-underline">VIEW MAP</a>
@@ -2617,10 +2617,10 @@ epoxy adhesive designed for per</p>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <h3 class="text-white fs-5">FOLLOW US</h3>
                 <div class="d-flex flex-wrap gap-3 mt-3">
-                                        <a href="https://www.instagram.com/ascolite_india/" target="_blank"><img src="images/svg/icon (1).svg" alt=""></a>                    <a href="https://www.facebook.com/ascolite.india" target="_blank"><img src="images/svg/icon (2).svg" alt=""></a>
-                                         <a href="https://x.com/ascolite" target="_blank"><img src="images/svg/icon (3).svg" alt=""></a>
+                                        <a href="https://www.instagram.com/hi-tech_india/" target="_blank"><img src="images/svg/icon (1).svg" alt=""></a>                    <a href="https://www.facebook.com/hi-tech.india" target="_blank"><img src="images/svg/icon (2).svg" alt=""></a>
+                                         <a href="https://x.com/hi-tech" target="_blank"><img src="images/svg/icon (3).svg" alt=""></a>
                                         <a href="https://www.linkedin.com/company/13391829/admin/feed/posts/" target="_blank"><img src="images/svg/icon (4).svg" alt=""></a>
-                                        <a href="https://youtube.com/@ascolite" target="_blank"><img src="images/svg/icon (5).svg" alt=""></a>
+                                        <a href="https://youtube.com/@hi-tech" target="_blank"><img src="images/svg/icon (5).svg" alt=""></a>
                                     </div>
                 <br>
                  <h3 class="text-white fs-5">Phone</h3>
@@ -2645,7 +2645,7 @@ epoxy adhesive designed for per</p>
     </div>
     <div class="w-100 pt-1 bg-sec mt-5">
     </div>
-    <p class="text-center text-sec mt-3 mb-0" style="padding:0; line-height:0;">©2026 Ascolite All Rights Reserved</p>
+    <p class="text-center text-sec mt-3 mb-0" style="padding:0; line-height:0;">©2026 HI TECH All Rights Reserved</p>
 </footer>
 
 <style>
@@ -2859,4 +2859,4 @@ function subscribe() {
 
 </html>
 
-<!-- https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.285530750741!2d72.83679800000002!3d21.1410323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be05128c3528a4b%3A0x459bd437c32bb9ad!2sAswani%20Industries%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1715770382521!5m2!1sen!2sin -->
+<!-- https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.285530750741!2d72.83679800000002!3d21.1410323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be05128c3528a4b%3A0x459bd437c32bb9ad!2sHI TECH%20Industries%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1715770382521!5m2!1sen!2sin -->
