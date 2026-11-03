@@ -1,0 +1,62 @@
+:root { --content-border: #dedede; --content-muted: #555; }
+body { letter-spacing: 0; }
+.site-menu-open { overflow: hidden; }
+.media-menu { display: none; position: fixed; inset: 72px 0 0; background: #0006; z-index: 99999; }
+.media-menu.active { display: grid; grid-template-columns: repeat(3, 1fr); }
+.media-menu .firstmenulist { background: white; }
+.firstmenulist, .secondmenulist, .productsdetails { max-height: calc(100dvh - 72px); }
+.media-menu a, .about-menu a, .resource-menu a { display: block; padding-block: 8px; }
+.media-menu a:focus-visible, .navbar a:focus-visible, [data-video]:focus-visible { outline: 3px solid #e8ad29; outline-offset: 3px; }
+.residential figure, .corporate figure, .commercial figure { margin: 0; }
+.residential figure > img, .corporate figure > img, .commercial figure > img {
+  width: 100%; height: 320px; object-fit: cover; object-position: center;
+}
+.residential figcaption, .corporate figcaption, .commercial figcaption {
+  padding: 14px 8px; font-size: 20px; line-height: 1.3; color: #242424; text-align: center;
+}
+.watchcontent { cursor: pointer; }
+.watchcontent > img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.stories > img { aspect-ratio: 1; object-fit: contain; background: white; }
+#fbContainer { width: min(100%, 360px); }
+.keep-connected-image { width: 100%; height: 100%; min-height: 280px; object-fit: cover; }
+.video-iframe { width: 100%; aspect-ratio: 16 / 9; height: auto; }
+.editorial-page .hero { min-height: 240px; position: relative; background: #282828; }
+.editorial-page .hero > img { width: 100%; height: 260px; object-fit: cover; opacity: .48; }
+.editorial-page .hero .content { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; padding: 30px 6%; color: white; }
+.editorial-page .hero .content a { color: white; }
+.editorial-page h1 { font-size: 40px; line-height: 1.15; }
+.editorial-page main p { line-height: 1.65; }
+.editorial-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
+.editorial-card { min-width: 0; border-bottom: 2px solid var(--content-border); padding-bottom: 24px; }
+.editorial-card > a { display: block; }
+.editorial-card img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.editorial-card .product-cover { object-fit: contain; background: #f5f5f5; }
+.editorial-card h2 { font-size: 24px; line-height: 1.25; margin: 16px 0 10px; }
+.editorial-card a { color: inherit; text-decoration: none; }
+.editorial-card a:hover { color: #b90020; }
+.editorial-card p { color: var(--content-muted); }
+.editorial-card .read-more { display: inline-block; font-weight: 700; text-decoration: underline; }
+.editorial-intro { max-width: 720px; margin-bottom: 32px; }
+.editorial-article { max-width: 1000px; margin-inline: auto; }
+.editorial-article > img { width: 100%; max-height: 480px; object-fit: contain; margin-bottom: 28px; }
+.editorial-article h2 { font-size: 28px; margin-top: 30px; }
+.editorial-products { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.editorial-products img { width: 100%; height: 240px; object-fit: contain; background: #f6f6f6; }
+.blog-article .blog-title:empty, .blog-article .sharebuttons, .blog-article .sharenow { display: none; }
+@media (max-width: 991px) {
+  .editorial-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .media-menu.active { grid-template-columns: minmax(0, 1fr); }
+  .media-menu .firstmenulist { max-width: 420px; width: 100%; }
+  .navbar-collapse { max-height: calc(100dvh - 80px); overflow-y: auto; }
+  .navbar-nav .nav-link { padding-block: 10px; }
+  .editorial-page h1 { font-size: 32px; }
+}
+@media (max-width: 575px) {
+  .editorial-grid, .editorial-products { grid-template-columns: minmax(0, 1fr); }
+  .residential figure > img, .corporate figure > img, .commercial figure > img { height: 240px; }
+  .editorial-page .hero .content { padding-inline: 24px; }
+  .editorial-page h1 { font-size: 28px; }
+  .editorial-card h2 { font-size: 22px; }
+  .stories { gap: 10px !important; }
+  .stories > img { width: 76px; padding: 3px !important; }
+}

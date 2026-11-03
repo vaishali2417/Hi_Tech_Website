@@ -283,8 +283,221 @@ gtag("config", "GT-KD7LTDLK");
     </style>
 <title>
         Wall Preparation for Tiling: Step-by-Step Guide    </title>
-</head>
-<body>
+<style id="shared-menu-layout">
+ section{
+    max-width:100vw !important;
+    overflow-x:hidden !important;
+    height:fit-content;
+    overflow-y:hidden;
+}
+.navbar-toggler:focus,
+.navbar-toggler {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.resource-menu,
+.about-menu,
+.applications-menu,
+.products-menu,
+.media-menu {
+    display: none;
+    position: fixed;
+    top: 72px;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    bottom: 0px;
+    background: #0006;
+    z-index: 99999;
+}
+
+.resource-menu.active,
+.about-menu.active,
+.applications-menu.active,
+.products-menu.active,
+.media-menu.active {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.firstmenulist,
+.secondmenulist,
+.productsdetails {
+    height: cals(100vh - 70px);
+    transform: translateX(-200%);
+    transition: all .5s ease-in-out;
+    padding: 40px 50px;
+    overflow-y:auto;
+}
+
+.firstmenulist.active {
+    transform: translateX(0%);
+    transition: all .5s ease-in-out;
+    background: #fff;
+    position: relative;
+    z-index: 100;
+}
+
+.secondmenulist.active,
+.productsdetails.active {
+    transform: translateX(0%);
+    transition: all .5s ease-in-out;
+    background: #fff;
+    border-left: 1px solid #555;
+    position: relative;
+    z-index: 90;
+}
+
+.productsdetails.active,
+.productsdetails {
+    z-index: 80;
+}
+
+.menuitems {
+    padding: 10px 0px;
+    border-top: 1px solid #555;
+    font-family: "Swis721 Cn LT", sans-serif;
+    color: #555;
+}
+
+.menuitems>*,
+.menuitems>*>* {
+    font-family: "Swis721 Cn LT", sans-serif;
+    color: #555;
+}
+
+.menusets button,
+.menuitems button {
+    border: none;
+    background: none;
+    padding: 10px 0px;
+    text-align: left;
+}
+
+.menuitems.active button {
+    color: #000 !important;
+}
+
+
+.menuitems .innermenu {
+    height: 0px !important;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.menuitems.active .innermenu {
+    height: fit-content !important;
+    padding-bottom: 10px;
+}
+
+.menuitems .innermenu a.active {
+    color: var(--prime);
+}
+
+.rounded-full-badge {
+    padding: 10px;
+    border-radius: 50%;
+    background: var(--sec);
+    aspect-ratio: 1;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    width: fit-content;
+    font-size: 16px;
+}
+
+.menusets button {
+    border: none;
+
+}
+
+.menusets,
+.productitem {
+    display: none;
+    transition: all .5s ease-in-out;
+}
+
+.menusets.active,
+.productitem.active {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+}
+
+.menusets.active button {
+    padding: 13px 0px;
+    border-top: 1px solid #555;
+    font-family: "Swis721 Cn LT", sans-serif;
+}
+
+.menuitems .toggler:after {
+    display: inline-block;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+
+.menuitems.active .toggler:after {
+    transform: rotate(180deg)
+}
+
+.menusets button.active,
+.innermenu button.active {
+    color: var(--prime) !important;
+}
+.secondmenulist .closemenu,
+.productsdetails .closemenu{
+    display:none;
+}
+.secondmenulist.active .closemenu,
+.productsdetails.active .closemenu{
+    display:block;
+}
+
+@media (max-width:800px){
+    .resource-menu.active,
+.about-menu.active,
+.media-menu.active,
+.applications-menu.active,
+.products-menu.active {
+    display: flex;
+    flex-direction:column;
+    overflow-y:auto;
+}
+
+.firstmenulist,
+.secondmenulist,
+.productsdetails {
+    padding: 30px;
+    overflow-y:visible;
+    position:absolute !important;
+    top:0;
+    width:100%;
+    height:100%;
+    overflow-y:auto;
+}
+.secondmenulist{
+    z-index:102 !important;
+}
+.productsdetails{
+  z-index:104 !important;  
+}
+}
+</style><link href="css/style.css" rel="stylesheet"/><link href="css/site-content.css" rel="stylesheet"/><script defer="" src="assets/js/site-navigation.js"></script></head>
+<body class="editorial-page blog-article">
 <!-- -->
 <style>
     .searchmodal {
@@ -363,33 +576,17 @@ gtag("config", "GT-KD7LTDLK");
 <div class="menuitems">
 <button class="toggler"><a href="products/walling-solutions/index.html">WALLING SOLUTIONS</a></button>
 <div class="innermenu">
-
 <button data-toggle="menuset20"><a href="products/walling-solutions/masonry-mortars/index.html">Masonry Mortars</a></button>
 <button data-toggle="menuset21"><a href="products/walling-solutions/ready-mix-plasters/index.html">Ready Mix Plasters</a></button>
-
-
-
-
 </div>
 </div>
-
-
 <div class="menuitems">
 <button class="toggler">STRUCTURAL REPAIRS, SEALANTS AND GROUTS</button>
 <div class="innermenu">
-
-
 <button data-toggle="menuset12">Non Shrink Grouts</button>
-
 <button data-toggle="menuset17">Floor Hardener</button>
-
-
-
-
-
 </div>
 </div>
-
 </div>
 <div class="secondmenulist">
 <button class="closemenu fs-5">×</button>
@@ -531,7 +728,7 @@ aggregates, p</p>
 <div class="firstmenulist">
 <button class="closemenu fs-5">×</button>
 <h3 class="mb-4 d-flex gap-2">Media</h3>
-</div>
+<div class="menuitems"><a href="newsletter/index.html">Newsletter</a></div><div class="menuitems"><a href="press/index.html">Press Release</a></div></div>
 </div>
 <div class="resource-menu">
 <div class="firstmenulist">

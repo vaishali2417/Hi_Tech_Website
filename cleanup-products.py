@@ -118,7 +118,7 @@ def transform(text, page, deleted, legacy_images=None, preserved_menus=None):
             node.unwrap()
             continue
         if target in deleted or target.startswith('uploads/documents/') or missing_catalog:
-            parent = node.find_parent(class_='items') or node.find_parent(['article', 'li', 'button'])
+            parent = node.find_parent(class_='items') or node.find_parent(['li', 'button'])
             remove(parent if parent else node)
         elif Path(target).name.lower() in {'ascolite-logo.svg', 'ascon-logo.svg', 'hi-tech-logo.svg'}:
             node['src' if node.name == 'img' else 'href'] = 'images/svg/logo.svg?v=hi-tech'
@@ -269,6 +269,8 @@ def self_test():
     category = '<button><a href="products/structural-repairs-sealants-and-grouts/index.html">Structural repairs</a></button>'
     category_result = transform(category, 'index.html', set())
     assert 'Structural repairs' in category_result and 'href=' not in category_result
+    article = '<article><h2>Project planning</h2><p>Keep this guidance.</p><a href="products/missing/index.html">Old product</a></article>'
+    assert 'Keep this guidance.' in transform(article, 'index.html', set())
     print('Cleanup self-test passed')
 
 
