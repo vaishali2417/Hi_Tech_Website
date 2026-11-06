@@ -402,7 +402,7 @@
 <a class="nav-link about-listing" href="javascript:void();">About Us</a>
 </li>
 <li class="nav-item">
-<a class="nav-link product-listing" href="javascript:void();">Product Listing</a>
+<a class="nav-link" href="products/index.html">Product Listing</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="application/index.html">Application Areas</a>
@@ -829,10 +829,16 @@ aggregates, p</p>
 </div>
 <div class="prodyct-list d-none" id="app_24">
 <div class="row text-center">
-<!-- <a href="product.php?productid=" class="col-6 p-2 pt-4 pr-item"> -->
-<!-- <a href="product.php?productid=" class="col-6 p-2 pt-4 pr-item"> -->
-<!-- <a href="product.php?productid=" class="col-6 p-2 pt-4 pr-item"> -->
-<!-- <a href="product.php?productid=" class="col-6 p-2 pt-4 pr-item"> -->
+<a class="col-6 p-2 pt-4 pr-item" href="products/walling-solutions/micro-concrete.html">
+<img alt="HI TECH Micro Concrete packaging" class="img-fluid w-50 mx-auto d-block" src="uploads/images/approved/1000231815.jpg"/>
+<p class="mb-0">MICRO CONCRETE</p>
+<div class="btn-under"><p>View Product</p></div>
+</a>
+<a class="col-6 p-2 pt-4 pr-item" href="products/walling-solutions/non-shrink-grout.html">
+<img alt="HI TECH Non Shrink Grout packaging" class="img-fluid w-50 mx-auto d-block" src="uploads/images/approved/1000231811.jpg"/>
+<p class="mb-0">NON SHRINK GROUT</p>
+<div class="btn-under"><p>View Product</p></div>
+</a>
 </div>
 </div>
 </div>
@@ -1128,6 +1134,37 @@ aggregates, p</p>
 </div>
 <script>
 $(document).ready(function() {
+    var products = {
+        plaster: { name: 'Ready Mix Plaster', image: 'uploads/images/approved/1000231810.jpg', href: 'products/walling-solutions/ready-mix-plaster.html' },
+        blockMortar: { name: 'Block Joining Mortar', image: 'uploads/images/approved/1000231812.jpg', href: 'products/walling-solutions/block-joining-mortar.html' },
+        microConcrete: { name: 'Micro Concrete', image: 'uploads/images/approved/1000231815.jpg', href: 'products/walling-solutions/micro-concrete.html' },
+        grout: { name: 'Non Shrink Grout', image: 'uploads/images/approved/1000231811.jpg', href: 'products/walling-solutions/non-shrink-grout.html' },
+        tileBondS01: { name: 'Tile Bond S-01 Ceramic Master', image: 'uploads/images/approved/1000231825.jpg', href: 'products/walling-solutions/tile-bond-s01.html' },
+        tileBondS02: { name: 'Tile Bond S-02 Vitrified Master', image: 'uploads/images/approved/1000231827.jpg', href: 'products/walling-solutions/tile-bond-s02.html' }
+    };
+    var applicationProducts = {
+        app_17: ['blockMortar', 'plaster'],
+        app_18: ['blockMortar', 'plaster'],
+        app_19: ['tileBondS01', 'tileBondS02'],
+        app_24: ['microConcrete', 'grout']
+    };
+
+    $('.prodyct-list').each(function() {
+        var productIds = applicationProducts[this.id] || [];
+        var row = $(this).find('.row').first().empty();
+        if (!productIds.length) {
+            row.append($('<p class="text-muted p-4">').text('Product information is not available for this application.'));
+            return;
+        }
+        productIds.forEach(function(id) {
+            var product = products[id];
+            var link = $('<a class="col-6 p-2 pt-4 pr-item">').attr('href', product.href);
+            link.append($('<img class="img-fluid w-50 mx-auto d-block">').attr({ src: product.image, alt: 'HI TECH ' + product.name + ' packaging' }));
+            link.append($('<p class="mb-0">').text(product.name));
+            link.append($('<div class="btn-under"><p>View Product</p></div>'));
+            row.append(link);
+        });
+    });
 
     $('#myTabs a').on('shown.bs.tab', function (e) {
         var targetTab = $(e.target).attr('href');
@@ -1239,7 +1276,7 @@ $(document).ready(function() {
 <ul class="list-style-none">
 <li><a href="index.html">Home</a></li>
 <li><a class="about-listing" href="javascript:void();">About Us</a></li>
-<li><a class="product-listing" href="javascript:void();">Product Solutions</a></li>
+<li><a href="products/index.html">Product Solutions</a></li>
 <li><a href="application/index.html">Application Areas</a></li>
 <li><a href="resources/index.html">Resources</a></li>
 </ul>
