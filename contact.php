@@ -444,8 +444,6 @@
                     Products</a>
 </div>
 <div class="productitem" id="product25">
-<!--<img src="https://hi-tech.in/uploads/images/1726054121-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
-<img alt="" class="w-75 mx-auto img-fluid d-block" src="uploads/images/1726054121-1_crop.webp"/>
 <h5 class="fs-2 mt-4 text-uppercase">READY MIX MORTAR</h5>
 <p>READY MIX MORTAR is a pre-mixed cement-based solution that substitutes the trad...</p>
 <a class="btn-sec text-uppercase d-flex justify-content-center" href="products/walling-solutions/ready-mix-plasters/ready-mix-mortar/index.html">View
@@ -460,8 +458,6 @@
                     Products</a>
 </div>
 <div class="productitem" id="product77">
-<!--<img src="https://hi-tech.in/uploads/images/1726059398-1_crop.webp" alt="" class="w-75 mx-auto img-fluid d-block">-->
-<img alt="" class="w-75 mx-auto img-fluid d-block" src="uploads/images/1726059398-1_crop.webp"/>
 <h5 class="fs-2 mt-4 text-uppercase">ASCOTOP FH 111</h5>
 <p>ASCOTOP FH 111 is a mixture of finely graded non-metallic quartz
 aggregates, p...</p>
@@ -518,7 +514,6 @@ aggregates, p...</p>
                     Products</a>
 </div>
 <div class="productitem" id="aproduct25">
-<img alt="" class="w-75 mx-auto img-fluid d-block" src="uploads/images/1726054121-1_crop.webp"/>
 <h5 class="fs-2 mt-4 text-uppercase">READY MIX MORTAR</h5>
 <p>READY MIX MORTAR is a pre-mixed cement-based solution that substitutes the trad</p>
 <a class="btn-sec text-uppercase d-flex justify-content-center" href="products/walling-solutions/ready-mix-plasters/ready-mix-mortar/index.html">View
@@ -532,7 +527,6 @@ aggregates, p...</p>
                     Products</a>
 </div>
 <div class="productitem" id="aproduct77">
-<img alt="" class="w-75 mx-auto img-fluid d-block" src="uploads/images/1726059398-1_crop.webp"/>
 <h5 class="fs-2 mt-4 text-uppercase">ASCOTOP FH 111</h5>
 <p>ASCOTOP FH 111 is a mixture of finely graded non-metallic quartz
 aggregates, p</p>
