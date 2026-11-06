@@ -196,6 +196,15 @@
     cursor: pointer;
 }
 
+.products-wrapper .products h4 button {
+    width: 100%;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+}
+
 
 .products-wrapper .navs {
     position: absolute;

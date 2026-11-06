@@ -14,8 +14,8 @@ header.site-header .site-nav { min-height: 74px; padding: 6px 3% !important; dis
 .shared-menu-heading h2 { margin: 0; font-size: 24px; color: #333; }
 .shared-menu-close { width: 40px; height: 40px; border: 0; background: transparent; color: #333; font-size: 30px; line-height: 1; }
 .shared-menu-content section { padding: 20px 0; border-bottom: 1px solid #e1e1e1; }
-.shared-menu-content h3 { margin: 0 0 10px; font-size: 16px; color: #444; }
-.shared-menu-content a { display: block; padding: 7px 0; color: #333; text-decoration: none; }
+.shared-menu-content h3 { margin: 0 0 10px; font-size: 20px; font-weight: 700; color: #444; }
+.shared-menu-content a { display: block; padding: 7px 0; font-size: 15px; line-height: 1.5; color: #333; text-decoration: none; }
 .shared-menu-content a:hover { color: #a4252d; text-decoration: underline; }
 .site-nav a:focus-visible, .site-nav button:focus-visible, .shared-menu-panel a:focus-visible, .shared-menu-panel button:focus-visible { outline: 2px solid #df9b32; outline-offset: 3px; }
 body.shared-menu-open { overflow: hidden; }
