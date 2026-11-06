@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<base href="../../../../"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Product Availability | HI TECH</title>
+<link href="assets/external/cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+<header class="border-bottom bg-white">
+<nav class="container py-3 d-flex align-items-center justify-content-between gap-3" aria-label="Main navigation">
+<a href="index.html"><img src="images/svg/logo.svg?v=hi-tech" alt="HI TECH home" style="max-width: 150px; height: auto;"/></a>
+<a href="products/walling-solutions/index.html">All products</a>
+</nav>
+</header>
+<main class="container py-5">
+<h1 class="text-prime">Product no longer listed</h1>
+<p>This product is no longer part of the current HI TECH catalog.</p>
+<a class="btn btn-prime" href="products/walling-solutions/index.html">View Current Products</a>
+</main>
+</body>
+</html><!DOCTYPE html>
+
+<html lang="en">
+<head><meta charset="utf-8"/><base href="../../../../"/><script src="local-preview.js"></script>
+<!-- Google tag (gtag.js) -->
+<!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="images/svg/logo.svg?v=hi-tech" rel="shortcut icon" type="image/svg+xml"/>
+<link href="assets/external/cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="assets/external/cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+<script src="assets/external/cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<link href="assets/external/cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="assets/external/cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet"/>
+<script src="assets/external/cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- Fontawesome CSS -->
+<link href="asco-console/assets/css/font-awesome.min.css" rel="stylesheet"/>
+<!-- Lineawesome CSS -->
+<link href="asco-console/assets/css/line-awesome.min.css" rel="stylesheet"/>
+<style>
+ section{
+    max-width:100vw !important;
+    overflow-x:hidden !important;
+    height:fit-content;
+    overflow-y:hidden;
+}
+.navbar-toggler:focus,
+.navbar-toggler {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.resource-menu,
+.about-menu,
+.applications-menu,
+.products-menu,
+.media-menu {
+    display: none;
+    position: fixed;
+    top: 72px;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    bottom: 0px;
+    background: #0006;
+    z-index: 99999;
+}
+
+.resource-menu.active,
+.about-menu.active,
+.applications-menu.active,
+.products-menu.active,
+.media-menu.active {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.firstmenulist,
+.secondmenulist,
+.productsdetails {
+    height: cals(100vh - 70px);
+    transform: translateX(-200%);
+    transition: all .5s ease-in-out;
+    padding: 40px 50px;
+    overflow-y:auto;
+}
+
+.firstmenulist.active {
+    transform: translateX(0%);
+    transition: all .5s ease-in-out;
+    background: #fff;
+    position: relative;
+    z-index: 100;
+}
+
+.secondmenulist.active,
+.productsdetails.active {
+    transform: translateX(0%);
+    transition: all .5s ease-in-out;
+    background: #fff;
+    border-left: 1px solid #555;
+    position: relative;
+    z-index: 90;
+}
+
+.productsdetails.active,
+.productsdetails {
+    z-index: 80;
+}
+
+.menuitems {
+    padding: 10px 0px;
+    border-top: 1px solid #555;
+    font-family: "Swis721 Cn LT", sans-serif;
+    color: #555;
+}
+
+.menuitems>*,
+.menuitems>*>* {
+    font-family: "Swis721 Cn LT", sans-serif;
+    color: #555;
+}
+
+.menusets button,
+.menuitems button {
+    border: none;
+    background: none;
+    padding: 10px 0px;
+    text-align: left;
+}
+
+.menuitems.active button {
+    color: #000 !important;
+}
+
+
+.menuitems .innermenu {
+    height: 0px !important;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.menuitems.active .innermenu {
+    height: fit-content !important;
+    padding-bottom: 10px;
+}
+
+.menuitems .innermenu a.active {
+    color: var(--prime);
+}
+
+.rounded-full-badge {
+    padding: 10px;
+    border-radius: 50%;
+    background: var(--sec);
+    aspect-ratio: 1;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    width: fit-content;
+    font-size: 16px;
+}
+
+.menusets button {
+    border: none;
+
+}
+
+.menusets,
+.productitem {
+    display: none;
+    transition: all .5s ease-in-out;
+}
+
+.menusets.active,
+.productitem.active {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+}
+
+.menusets.active button {
+    padding: 13px 0px;
+    border-top: 1px solid #555;
+    font-family: "Swis721 Cn LT", sans-serif;
+}
+
+.menuitems .toggler:after {
+    display: inline-block;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+
+.menuitems.active .toggler:after {
+    transform: rotate(180deg)
+}
+
+.menusets button.active,
+.innermenu button.active {
+    color: var(--prime) !important;
+}
+.secondmenulist .closemenu,
+.productsdetails .closemenu{
+    display:none;
+}
+.secondmenulist.active .closemenu,
+.productsdetails.active .closemenu{
+    display:block;
+}
+
+@media (max-width:800px){
+    .resource-menu.active,
+.about-menu.active,
+.media-menu.active,
+.applications-menu.active,
+.products-menu.active {
+    display: flex;
+    flex-direction:column;
+    overflow-y:auto;
+}
+
+.firstmenulist,
+.secondmenulist,
+.productsdetails {
+    padding: 30px;
+    overflow-y:visible;
+    position:absolute !important;
+    top:0;
+    width:100%;
+    height:100%;
+    overflow-y:auto;
+}
+.secondmenulist{
+    z-index:102 !important;
+}
+.productsdetails{
+  z-index:104 !important;  
+}
+}
+</style> <title>ASCOFIX BJM / TBM - High-Quality Thin Jointing Mortar for AAC Blocks</title>
+<meta content="ASCOFIX BJM and ASCOFIX TBM are pre-mixed, self-curing, non-shrink thin jointing mortars specially designed for AAC (Autoclaved Aerated Concrete) blocks or equivalent. Offering a revolutionary 2-3 mm joint thickness, they replace conventional jointing methods with improved bonding and durability." name="description"/>
+<meta content="ASCOFIX BJM, ASCOFIX TBM, thin jointing mortar, AAC blocks jointing, autoclaved aerated blocks, non-shrink mortar, pre-mixed mortar, jointing solution, high-quality mortar, construction material, AAC block adhesive" name="keywords"/>
+<link href="css/site-content.css" rel="stylesheet"/><script defer="" src="assets/js/site-navigation.js"></script></head>
+<style>
+.application .items {
+    position: relative;
+}
+
+.application .stamp {
+    position: absolute;
+    background: var(--sec);
+    color: #fff;
+    padding: 6px 20px;
+    text-transform: uppercase;
+    top: 14px;
+    left: 14px;
+    z-index: 2;
+}
+
+.application .area {
+    position: absolute;
+    background: #0008;
+    color: #fff;
+    /*padding: 40px;*/
+    padding: 6px;
+    text-transform: uppercase;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+    font-size: 20px;
+}
+
+.trianglebg {
+    background: linear-gradient(to bottom right, #6A236B15 50%, #91B43E15 50%);
+}
+
+.vslide {
+    position: relative;
+}
+
+.playvideo {
+    border: none;
+    /*color: #fff;*/
+    background: rgba(0, 0, 0, 0);
+    /*font-size: 28px;*/
+    /*padding: 3px 10px;*/
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 5;
+}
+
+.vslidenav {
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    right: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--prime);
+    text-align: center;
+    color: #fff;
+    z-index: 3;
+    padding: 10px;
+}
+
+.vslidenav button {
+    background: #fff3;
+    padding: 6px 14px;
+    border: none;
+}
+
+
+.accordion h5 {
+    padding: 30px 50px 20px 0px;
+    cursor: pointer;
+    position: relative;
+    border-top: 1px solid #0005;
+}
+
+.accordion h5:first-child {
+    border-top: none;
+}
+
+.accordion h5::after {
+    position: absolute;
+    right: 0;
+    background: var(--prime);
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: grid;
+    place-content: center;
+    padding-bottom: 2px;
+    top: 50%;
+    transform: translateY(-40%)
+}
+
+.accordion h5[aria-expanded="false"]::after {
+    content: '+';
+}
+
+.accordion h5[aria-expanded="true"]::after {
+    content: '–';
+}
+
+.accordion .collapsing {
+    opacity: 0;
+    transition: all .2s ease-in-out;
+}
+
+.accordion .collapse {
+    margin-bottom: 20px;
+    margin-top: -20px;
+    opacity: 1;
+    transition: all .2s ease-in-out;
+}
+
+main div.collapsing,
+main div.collapse {
+    font-family: "Swis721 Cn LT", sans-serif;
+    opacity: .75;
+}
+
+.showcase .items {
+    position: relative;
+    border: 1px solid #0005;
+    overflow:hidden;
+}
+
+.showcase .items img {
+    position: reltive;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    transition: all .3s ease-in-out;
+    filter: brightness(50%);
+}
+
+.showcase .items h3,
+.showcase .items h5 {
+    position: relative;
+    top:100%;
+    z-index: 5;
+    color: #fff;
+    transition: all .3s ease-in-out;
+    text-transform: uppercase;
+}
+
+.showcase .items .over {
+    position:absolute;
+    z-index:3;
+    width:100%;
+    /*height:100%;*/
+    top:0;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.showcase .items:hover h3,
+.showcase .items:hover h5 {
+    color: #000;
+    transition: all .3s ease-in-out;
+}
+
+.showcase .items::after {
+    position:absolute;
+    background:#fff;
+    content:"";
+    width:100%;
+    height:100%;
+    left:0;
+    z-index:2;
+    top:100%;
+    transition: all .3s ease-in-out;
+}
+
+.showcase .items .content {
+    position:relative;
+    top:40px;
+    display:flex;
+    opacity:0;
+    transition: all .3s ease-in-out;
+}
+
+
+.showcase .items:hover .content {
+    top:40px;
+    opacity:1;
+    transition: all .3s ease-in-out;
+}
+
+.showcase .items:hover::after {
+    top:0;
+    transition: all .3s ease-in-out;
+}
+
+.videoslider .items p {
+    font-size: 20px;
+}
+
+.owl-navs {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    z-index: 3;
+    padding: 0px 40px;
+    z-index: 0;
+}
+
+.owl-navs button {
+    border: none;
+    background: transparent;
+}
+
+.owl-navs .prev {
+    transform: rotate(180deg);
+    margin-left: -20px;
+}
+
+.owl-navs .next {
+    margin-right: -20px;
+}
+
+.owl-carousel{
+    position: relative;
+}
+
+.owl-carousel .owl-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: absolute;
+    top: calc(50% + 20px);
+	height:0px;
+}
+
+.owl-carousel .owl-nav .owl-prev {
+    /* margin-left: -48px; */
+    transform: rotate(180deg);
+}
+
+.owl-carousel .owl-nav .owl-next {
+    /* margin-right: -48px; */
+	margin-top:-38px;
+}
+
+.owl-carousel .owl-nav button.disabled {
+    /* opacity:0; */
+    visibility: hidden;
+    cursor: none;
+}
+
+.type-c{
+     color:#fff !important;
+    background:var(--prime);
+    border-radius:var(--border-radius);
+    border:2px solid var(--prime);
+    padding:8px 20px;
+   display:block;
+   font-size:20px;
+   text-align:center;
+}
+
+.type-c:hover{
+    color:var(--prime) !important;
+    background:#fff !important;
+    width:100% !important;
+}
+
+@media (max-width:992px){
+    .border-dark-subtle{
+        border:none !important;
+    }    
+}
+
+@media (max-width:768px){
+    .vslidenav{
+        position:relative;
+        left:unset;
+        right:unset;
+        bottom:unset;
+        padding:0px;
+    }
+    .vslidenav button{
+        padding:2px 12px;
+    }
+    .videoslider .items p{
+        font-size:16px;
+    }
+}
+
+</style>
+<body>
+<style>
+    .searchmodal {
+        z-index: 99999;
+        position: fixed;
+        top: 70px;
+        left: 0;
+        right: 0;
+        bottom: 0px;
+        background: #0006;
+        display: none;
+    }
+
+    .searchmodal form {
+        display: grid;
+        grid-template-columns: 1fr 50px;
+    }
+
+    .searchmodal form input::placeholder {
+        color: #0009;
+    }
+</style>
+<header>
+<nav class="navbar navbar-expand-lg px-xl-5">
+<div class="container-fluid px-3 py-md-1">
+<a class="navbar-brand" href="index.html"><img alt="HI TECH" src="uploads/images/approved/1000231818.jpg"/></a>
+<button aria-expanded="false" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon text-white"></span>
+</button>
+<div class="collapse navbar-collapse mt-3 mt-md-0" id="navbarSupportedContent">
+<ul class="navbar-nav ms-auto">
+<li class="nav-item">
+<a class="nav-link about-listing" href="javascript:void();">About Us</a>
+</li>
+<li class="nav-item">
+<a class="nav-link product-listing" href="javascript:void();">Product Listing</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="application/index.html">Application Areas</a>
+</li>
+<li class="nav-item">
+<a class="nav-link resource-listing" href="javascript:void();">Knowledge Center</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="resources/index.html">Resources</a>
+</li>
+<li class="nav-item">
+<a class="nav-link media-listing" href="javascript:void();">Media</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="contact/index.html">Contact Us</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="career/index.html">Life At HI TECH</a>
+</li>
+<li class="nav-item">
+<a class="nav-link search-modal" href="javascript:void();">
+<img alt="gg" class="img-fluid" src="images/svg/search.svg" width="23px"/>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<div class="searchmodal d-none" id="searchModal">
+<form action="#" class="bg-white w-100 px-3 px-md-5 py-1" method="get">
+<input id="" name="search" placeholder="Search Product" style="min-height:40px; background:transparent; outline:none; border:none" type="search"/>
+<button class="bg-transparent border-0" style="padding:4px; filter:brightness(0%)"><img alt="" class="img-fluid" src="images/svg/search.svg" width="25px"/></button>
+</form>
+</div>
+<div class="about-menu">
+<div class="firstmenulist">
+<button class="closemenu fs-5">×</button>
+<h3 class="mb-4 d-flex gap-2">About Us</h3>
+<div class="menuitems"><a href="about/index.html">Overview</a></div>
+<div class="menuitems"><a href="team/index.html">Our Team</a></div>
+<div class="menuitems"><a href="clients/index.html">Our Customers</a></div>
+</div>
+</div>
+<div class="media-menu">
+<div class="firstmenulist">
+<button class="closemenu fs-5">×</button>
+<h3 class="mb-4 d-flex gap-2">Media</h3>
+<div class="menuitems"><a href="newsletter/index.html">Newsletter</a></div><div class="menuitems"><a href="press/index.html">Press Release</a></div></div>
+</div>
+<div class="resource-menu">
+<div class="firstmenulist">
+<button class="closemenu fs-5">×</button>
+<h3 class="mb-4 d-flex gap-2">Knowledge Center</h3>
+<div class="menuitems"><a href="testimonials/index.html">Testimonials</a></div>
+<div class="menuitems"><a href="project/index.html">Project Showcases</a></div>
+<div class="menuitems"><a href="blog/index.html">Blogs</a></div>
+</div>
+</div>
+<script>
+    jQuery(document).ready(function($) {
+        $('.search-modal').click(function() {
+            $('.applications-menu , .about-menu , .resource-menu , .firstmenulist , .secondmenulist , .productsdetails , .products-menu').removeClass('active');
+            $('.searchmodal').toggleClass('d-none');
+        });
+
+        // Close search modal if clicked outside the form
+        $(document).click(function(event) {
+            if (!$(event.target).closest('#searchModal form, .search-modal').length) {
+                $('#searchModal').addClass('d-none');
+            }
+        });
+
+        $('.product-listing').click(function() {
+            $('.applications-menu, .about-menu, .resource-menu, .firstmenulist, .secondmenulist, .productsdetails').removeClass('active');
+            $('.searchmodal').addClass('d-none');
+            $('.products-menu').toggleClass('active');
+            setTimeout(function() {
+                $('.products-menu .firstmenulist').addClass('active');
+            }, 50);
+        });
+
+        $('.menuitems .toggler').mouseenter(function() {
+            var $parentMenu = $(this).closest('.menuitems');
+            $('.menuitems').not($parentMenu).removeClass('active');
+            $parentMenu.toggleClass('active');
+        });
+
+        $('.innermenu button').mouseenter(function() {
+            var toggleId = $(this).data('toggle');
+            $('.innermenu button').not(this).removeClass('active');
+            $(this).addClass('active');
+            $('.secondmenulist').addClass('active');
+            $('.menusets').not('#' + toggleId).removeClass('active');
+            $('#' + toggleId).addClass('active');
+            $('.productitem, .productsdetails, .menusets button').removeClass('active');
+        });
+
+        $('.menusets button').mouseenter(function() {
+            var togglemenuId = $(this).data('toggle');
+            $('.menusets button').not(this).removeClass('active');
+            $(this).addClass('active');
+            $('.productsdetails').addClass('active');
+            $('.productitem').not('#' + togglemenuId).removeClass('active');
+            $('#' + togglemenuId).addClass('active');
+        });
+
+        // Applications Menu Navigation
+        $('.applica-listing').click(function() {
+            $('.products-menu, .about-menu, .resource-menu, .firstmenulist, .secondmenulist, .productsdetails').removeClass('active');
+            $('.searchmodal').addClass('d-none');
+            $('.applications-menu').toggleClass('active');
+            setTimeout(function() {
+                $('.applications-menu .firstmenulist').addClass('active');
+            }, 50);
+        });
+
+        // About Menu Navigation
+        $('.about-listing').click(function() {
+            $('.products-menu, .resource-menu, .firstmenulist, .secondmenulist, .productsdetails, .applications-menu').removeClass('active');
+            $('.searchmodal').addClass('d-none');
+            $('.about-menu').toggleClass('active');
+            setTimeout(function() {
+                $('.about-menu .firstmenulist').addClass('active');
+            }, 50);
+        });
+
+        $('.media-listing').click(function() {
+            $('.products-menu, .resource-menu, .firstmenulist, .secondmenulist, .productsdetails, .applications-menu, .about-menu').removeClass('active');
+            $('.searchmodal').addClass('d-none');
+            $('.media-menu').toggleClass('active');
+            setTimeout(function() {
+                $('.media-menu .firstmenulist').addClass('active');
+            }, 50);
+        });
+
+        // Resource Menu Navigation
+        $('.resource-listing').click(function() {
+            $('.products-menu, .about-menu, .firstmenulist, .secondmenulist, .productsdetails, .applications-menu').removeClass('active');
+            $('.searchmodal').addClass('d-none');
+            $('.resource-menu').toggleClass('active');
+            setTimeout(function() {
+                $('.resource-menu .firstmenulist').addClass('active');
+            }, 50);
+        });
+
+        // Menu Close button
+        $('.productsdetails .closemenu').click(function() {
+            $('.productsdetails, .productitem').removeClass('active');
+        });
+
+        $('.secondmenulist .closemenu').click(function() {
+            $('.secondmenulist, .productsdetails, .productitem').removeClass('active');
+        });
+
+        $('.firstmenulist .closemenu').click(function() {
+            $('.secondmenulist, .productsdetails, .productitem, .products-menu, .applications-menu, .about-menu, .resource-menu, .media-menu').removeClass('active');
+        });
+
+
+        $('.products-menu , .resource-menu , .about-menu').click(function(event) {
+            if (!$(event.target).closest('.firstmenulist, .secondmenulist, .productsdetails').length) {
+                $('.firstmenulist, .secondmenulist, .productsdetails, .products-menu, .applications-menu, .about-menu, .resource-menu').removeClass('active');
+            }
+        });
+
+        $('.products-menu').click(function() {
+            if (!$('.products-menu').hasClass('active')) {
+                $('.firstmenulist, .secondmenulist, .productsdetails, .products-menu, .applications-menu, .about-menu, .resource-menu').removeClass('active');
+            }
+        });
+
+
+
+    });
+</script> <main>
+<section>
+<div class="hero">
+<div id="check"></div>
+<div class="content" style="position: relative;text-align: start;padding: 16px 37px;width: 70%;color: white;margin-left: 28px; ">
+<p><a href="index.html">Home</a> <i aria-hidden="true" class="fa fa-angle-right" style="padding: 5px;"></i> <a>Walling solutions</a> <i aria-hidden="true" class="fa fa-angle-right" style="padding: 5px;"></i> Masonry mortars <i aria-hidden="true" class="fa fa-angle-right" style="padding: 5px;"></i> Ascofix bjm/tbm</p>
+</div>
+</div>
+</section>
+<section>
+<div class="container-fluid px-3 px-lg-5 py-5">
+<div class="row px-3">
+<div class="col-lg-5 col-xl-4 border-end border-dark-subtle border-bottom" data-aos="fade-up">
+<div class="owl-carousel product-show">
+<div class="items">
+<img alt="" class="img-fluid px-5" src="uploads/images/approved/1000231818.jpg"/>
+</div>
+</div>
+</div>
+<div class="col-lg-7 col-xl-8 border-bottom border-dark-subtle ps-lg-5">
+<h2 class="text-prime fs-1 text-uppercase mb-4" data-aos="fade-up">ASCOFIX BJM/TBM</h2>
+<p data-aos="fade-up"><p style="text-align: justify;"><b>ASCOFIX<span style="font-size: 0.9375rem;"> BJM / </span><span style="font-size: 0.9375rem;">TBM</span><span style="font-size: 0.9375rem;"> </span></b><span style="font-size: 0.9375rem;"> is a pre-mixed, self-curing &amp; non-shrink thin jointing mortar for AAC Blocks </span><span style="font-size: 0.9375rem;">(Autoclaved Aerated </span><span style="font-size: 0.9375rem;">blocks</span><span style="font-size: 0.9375rem;">) or equivalent. <b>ASCOFIX BJM</b> is a specially engineered</span><span style="font-size: 0.9375rem;"> jointing mortar with an ideal mix of OPC, dry-graded sand, polymers </span><span style="font-size: 0.9375rem;">&amp; chemical additives.</span></p><p style="text-align: justify; "><b>ASCOFIX</b><span style="font-size: 0.9375rem;"><b> TBM</b> is a pre-mixed high-quality Thin Bed Jointing Mortar for </span>AAC Blocks<span style="font-size: 0.9375rem;"> or equivalent. It replaces the conventional method </span><span style="font-size: 0.9375rem;">&amp; material of jointing mortar which requires a 12 - 18 mm thickness with a </span><span style="font-size: 0.9375rem;">revolutionary 2 - 3 mm joint thickness.</span></p></p>
+<ul class="nav nav-tabs d-flex justify-content-between mt-5" data-aos="fade-up" id="additionalTabs">
+<li class="nav-item flex-grow-1">
+<a class="nav-link active" data-bs-toggle="tab" href="#residential" id="tab6">Recommended application</a>
+</li>
+<li class="nav-item flex-grow-1">
+<a class="nav-link" data-bs-toggle="tab" href="#corporate" id="tab7">coverage</a>
+</li>
+<li class="nav-item flex-grow-1">
+<a class="nav-link" data-bs-toggle="tab" href="#commercial" id="tab8">shelf life</a>
+</li>
+</ul>
+<div class="tab-content mt-3 pt-3" data-aos="fade-up">
+<div class="tab-pane fade active show" id="residential">
+<ul><li>Fly Ash Blocks (Aerated Autoclaved)</li><li>Concrete blocks</li><li>Hollow blocks<br/></li></ul> </div>
+<div class="tab-pane fade" id="corporate">
+<span style="color: rgb(28, 28, 28); font-family: Inter, sans-serif; font-size: 14px; white-space-collapse: break-spaces;">Refer to the <a href="demo1/php/uploads/documents/tds1719753580-1.pdf" target="_blank">Technical Data Sheet</a></span><p></p> </div>
+<div class="tab-pane fade" id="commercial">
+<p style="text-align: justify; ">06 months from the production date if stored in original, unopened packaging, <span style="font-size: 0.9375rem;">in places protected from moisture, sun exposure &amp; frost.</span></p> </div>
+</div>
+</div>
+</div>
+<h2 class="text-center text-prime text-uppercase mt-5 mb-lg-3" data-aos="fade-up">Key features and benefits:
+                </h2>
+<div class="owl-carousel keyfeatures-slide">
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-1.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Non-Shrink</h4>
+<p data-aos="fade-up"></p>
+</div>
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-2.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Pre-Mixed</h4>
+<p data-aos="fade-up"></p>
+</div>
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-3.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Self-curing properties</h4>
+<p data-aos="fade-up"></p>
+</div>
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-4.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Excellent adhesion</h4>
+<p data-aos="fade-up"></p>
+</div>
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-5.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Higher coverage in comparison to conventional mortar</h4>
+<p data-aos="fade-up"></p>
+</div>
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-6.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Suitable for all types of blocks</h4>
+<p data-aos="fade-up"></p>
+</div>
+<div class="items text-center py-4">
+<img alt="" class="img-fluid mx-auto" data-aos="fade-up" src="uploads/images/1719822597-7.png" style="max-width:90px"/>
+<h4 class="mt-3 text-uppercase match fs-6" data-aos="fade-up">Consistent quality</h4>
+<p data-aos="fade-up"></p>
+</div>
+</div>
+</div>
+</section>
+<section class="bg-light">
+<div class="container-fluid px-3 px-lg-5 py-5">
+<h2 class="text-center text-prime text-uppercase" data-aos="fade-up">AREAS OF APPLICATION</h2>
+<div class="position-relative px-5">
+<div class="owl-carousel application dash-prime py-4" data-aos="fade-up">
+<div class="items">
+<img alt="" class="img-fluid" src="uploads/images/1722923159-1_crop.webp"/>
+<div class="stamp">WALLING SOLUTIONS</div>
+<div class="area">Clay Bricks </div>
+</div>
+<div class="items">
+<img alt="" class="img-fluid" src="uploads/images/1722923246-1_crop.webp"/>
+<div class="stamp">WALLING SOLUTIONS</div>
+<div class="area">Concrete Blocks</div>
+</div>
+<div class="items">
+<img alt="" class="img-fluid" src="uploads/images/1726223856-1_crop.webp"/>
+<div class="stamp">WALLING SOLUTIONS</div>
+<div class="area">Hollow Blocks </div>
+</div>
+<div class="items">
+<img alt="" class="img-fluid" src="uploads/images/1722923282-1_crop.webp"/>
+<div class="stamp">WALLING SOLUTIONS</div>
+<div class="area">Fly Ash Blocks</div>
+</div>
+</div>
+<div class="owl-navs">
+<button class="prev app"><img alt="" class="img-fluid" src="images/svg/prime-arrow.svg"/></button>
+<button class="next app"><img alt="" class="img-fluid" src="images/svg/prime-arrow.svg"/></button>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="container-fluid px-3 px-lg-5 py-4 mt-2">
+<div class="row px-4">
+<div class="col-lg-4 col-md-4 p-2 p-lg-2" data-aos="fade-up">
+</div>
+<div class="col-lg-4 col-md-4 p-2 p-lg-2" data-aos="fade-up">
+</div>
+<div class="col-lg-4 col-md-4 p-2 p-lg-2" data-aos="fade-up">
+<a class="type-c w-100" href="contact.html" target="_blank">
+                            Connect With Expert
+                        </a>
+</div>
+</div>
+<h2 class="text-center text-prime text-center text-uppercase fs-1 my-4" data-aos="fade-up">Tools</h2>
+<div class="row mb-4 pb-xl-3 px-md-4 px-0">
+<div class="col-lg-4 col-md-6 p-3 px-xl-4">
+<div class="border border-dark-subtle p-4">
+<div class="p-2 d-flex flex-column">
+<img alt="" class="img-fluid w-fit" data-aos="fade-up" src="images/webp/border_clear.webp"/>
+<h4 class="text-uppercase mt-4" data-aos="fade-up" style="min-height:60px">Fly Ash Blocks  Calculator </h4>
+<p class="fs-7 fw-light mb-4 pb-2" data-aos="fade-up">A perfect tool to estimate the amount of HI TECH FLY ASH BLOCKS required for your project.</p>
+<a class="btn-sec w-100" data-aos="fade-up" href="resources/index-90646a27ac.html">Calculate</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="trianglebg">
+<div class="container-fluid px-3 px-lg-5 py-5">
+<h2 class="text-center fs-1 text-uppercase text-prime" data-aos="fade-up">Watch Video</h2>
+<div class="owl-carousel videoslider mt-4 px-lg-4" data-aos="fade-up">
+<div class="items vslide">
+<img alt="Illustrative photo: Exposed brick masonry surface" class="img-fluid" src="images/product-categories/walling-solutions.jpg"/>
+<button class="playvideo" data-video="https://www.youtube.com/embed/LmnZUQzu6WU"><img alt="" class="img-fluid" src="images/play.svg"/>︎</button>
+<div class="vslidenav">
+<button class="prev"><img alt="" class="img-fluid" src="images/svg/arrow-left.svg"/></button>
+<p class="m-0 px-3 py-1">Application </p>
+<button class="next"><img alt="" class="img-fluid" src="images/svg/arrow-right.svg"/></button>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div aria-hidden="true" class="modal fade" id="videoModal" role="dialog">
+<div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body pt-5">
+<button aria-label="Close" class="close" data-bs-dismiss="modal" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="video-iframe mt-3" frameborder="0" id="videoIframe"></iframe>
+</div>
+</div>
+</div>
+</div>
+<section class="bg- light">
+<div class="container px-3 py-5">
+<h2 class="fs-1 text-center text-prime text-uppercase mb-4" data-aos="fade-up">FREQUENTLY ASKED
+                    QUESTIONS</h2>
+<div class="accordion px-lg-5 mx-xl-5" data-aos="fade-up" id="accordion">
+<h5 aria-expanded="true" data-bs-target="#faq85" data-bs-toggle="collapse">
+                        What is ASCOFIX  BJM?                    </h5>
+<div class="collapse show" id="faq85">
+                        ASCOFIX BJM is a pre-mixed, self-curing, and non-shrink thin jointing mortar designed for Autoclaved Aerated Concrete (AAC) blocks or equivalent.                    </div>
+<h5 aria-expanded="false" data-bs-target="#faq86" data-bs-toggle="collapse">
+                        What are the main benefits of ASCOFIX BJM?                    </h5>
+<div class="collapse" id="faq86">
+                         It provides a strong, durable bond with self-curing and non-shrink properties, ensuring minimal gaps and a seamless finish.                    </div>
+<h5 aria-expanded="false" data-bs-target="#faq87" data-bs-toggle="collapse">
+                        What are the key components of ASCOFIX BJM?                    </h5>
+<div class="collapse" id="faq87">
+                        ASCOFIX BJM is composed of OPC (Ordinary Portland Cement), dry-graded sand, polymers, and chemical additives.                    </div>
+<h5 aria-expanded="false" data-bs-target="#faq309" data-bs-toggle="collapse">
+                        What are the main benefits of ASCOFIX BJM?                    </h5>
+<div class="collapse" id="faq309">
+                         It provides a strong, durable bond with self-curing and non-shrink properties, ensuring minimal gaps and a seamless finish.                    </div>
+<h5 aria-expanded="false" data-bs-target="#faq310" data-bs-toggle="collapse">
+                        What are the main benefits of ASCOFIX BJM?                    </h5>
+<div class="collapse" id="faq310">
+                         It provides a strong, durable bond with self-curing and non-shrink properties, ensuring minimal gaps and a seamless finish.                    </div>
+<h5 aria-expanded="false" data-bs-target="#faq311" data-bs-toggle="collapse">
+                        What are the main benefits of ASCOFIX BJM?                    </h5>
+<div class="collapse" id="faq311">
+                         It provides a strong, durable bond with self-curing and non-shrink properties, ensuring minimal gaps and a seamless finish.                    </div>
+</div>
+</div>
+</section>
+</main>
+<div class="sideicons">
+<a class="quickcontact" href="contact/index.html">Quick Enquiry</a>
+<a href="https://wa.me/+916352541391" target="_blank"><img alt="" src="images/svg/whatsapp.svg" style="width:35px; height:35px;"/></a>
+</div>
+<footer class="px-0">
+<div class="container text-white">
+<div class="row pt-lg-4">
+<div class="col-lg-3 col-xl-2 col-md-4 col-sm-6">
+<h3 class="text-white fs-5">QUICK LINKS</h3>
+<ul class="list-style-none">
+<li><a href="index.html">Home</a></li>
+<li><a class="about-listing" href="javascript:void();">About Us</a></li>
+<li><a class="product-listing" href="javascript:void();">Product Solutions</a></li>
+<li><a href="application/index.html">Application Areas</a></li>
+<li><a href="resources/index.html">Resources</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-xl-4 col-md-4 col-sm-6">
+<ul class="list-style-none mt-sm-4 pt-2">
+<li><a href="blog/index.html">Blogs</a></li>
+<li><a href="contact/index.html">Contact Us</a></li>
+<li><a href="terms-conditions/index.html">Terms &amp; Conditions</a></li>
+<li><a href="privacypolicy/index.html">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6">
+<h3 class="text-white fs-5">LOCATION</h3>
+<p class="lead30">HI TECH<br/>Rola, Dungari, Valsad</p>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6">
+<h3 class="text-white fs-5">FOLLOW US</h3>
+<div class="d-flex flex-wrap gap-3 mt-3">
+<a href="https://www.instagram.com/hi-tech_india/" target="_blank"><img alt="" src="images/svg/icon (1).svg"/></a> <a href="https://www.facebook.com/hi-tech.india" target="_blank"><img alt="" src="images/svg/icon (2).svg"/></a>
+<a href="https://x.com/hi-tech" target="_blank"><img alt="" src="images/svg/icon (3).svg"/></a>
+<a href="https://www.linkedin.com/company/13391829/admin/feed/posts/" target="_blank"><img alt="" src="images/svg/icon (4).svg"/></a>
+<a href="https://youtube.com/@hi-tech" target="_blank"><img alt="" src="images/svg/icon (5).svg"/></a>
+</div>
+<br/>
+<h3 class="text-white fs-5">Phone</h3>
+<a href="tel:18005327788">18005327788</a> <!-- / <a href="tel:7486070126">7486070126</a> -->
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="subscribe_now">
+<form class="subscribe_form">
+<div class="input-group">
+<input class="form-control" name="subscription_email" placeholder="Enter your email" style="border-radius: 10px; background:#ECECF7;height:50px;" type="text"/>
+<span class="input-group-btn">
+<button class="btn-sec btn-subscribe" onclick="subscribe()" style="margin-left:10px; border-radius: 10px; padding:8px;" type="button">subscribe</button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="w-100 pt-1 bg-sec mt-5">
+</div>
+<p class="text-center text-sec mt-3 mb-0" style="padding:0; line-height:0;">©2026 HI TECH All Rights Reserved</p>
+</footer>
+<style>
+.cookie-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    display: none;
+    z-index: 1000;
+}
+
+.cookie-consent p {
+    margin: 0;
+    padding: 0 10px;
+    display: inline-block;
+}
+
+.cookie-consent button {
+    background-color: var(--prime);
+    color: white;
+    border: none;
+    padding: 4px 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius:6px;
+    display: inline-block;
+}
+
+.cookie-consent button:hover {
+    background-color: #fff;
+    color: var(--prime);
+}
+</style>
+<div class="cookie-consent" id="cookie-consent">
+<p>This website uses cookies to serve content relevant for you and to improve your overall website experience. By continuing to visit this site, you agree to our use of cookies.</p>
+<button id="accept-cookies">Accept</button>
+</div>
+<script>
+$(document).ready(function() {
+    const cookieConsent = $('#cookie-consent');
+    const acceptCookiesButton = $('#accept-cookies');
+    if (!localStorage.getItem('cookiesAccepted')) {
+        cookieConsent.show();
+    }
+    acceptCookiesButton.on('click', function() {
+        localStorage.setItem('cookiesAccepted', 'true');
+        cookieConsent.hide();
+    });
+});
+</script><script src="assets/external/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/external/cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+$(document).ready(function() {
+    AOS.init({
+        offset: 150,
+        duration: 1200,
+        once: true,
+    });
+
+    $('.search-modal').click(function() {
+        $('#searchModal').show();
+    });
+
+    $('.close').click(function() {
+        $('.modal').modal('hide');
+    });
+    // // Products Menu Navigation
+    // $('.product-listing').click(function() {
+    //     $('.applications-menu').removeClass('active');
+    //     $('.about-menu').removeClass('active');
+    //     $('.resource-menu').removeClass('active');
+    //     $('.firstmenulist').removeClass('active');
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.products-menu').toggleClass('active');
+    //     setTimeout(function() {
+    //         $('.products-menu .firstmenulist').addClass('active');
+    //     }, 50);
+    // });
+
+    // $('.menuitems .toggler').click(function() {
+    //     var $parentMenu = $(this).closest('.menuitems');
+    //     $('.menuitems').not($parentMenu).removeClass('active');
+    //     $parentMenu.toggleClass('active');
+    // });
+
+    // $('.innermenu button').click(function() {
+    //     var toggleId = $(this).data('toggle');
+    //     $('.innermenu button').not(this).removeClass('active');
+    //     $(this).addClass('active');
+    //     $('.secondmenulist').addClass('active');
+    //     $('.menusets').not('#' + toggleId).removeClass('active');
+    //     $('#' + toggleId).addClass('active');
+    //     $('.productitem').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.menusets button').removeClass('active');
+    // });
+
+    // $('.menusets button').click(function() {
+    //     var togglemenuId = $(this).data('toggle');
+    //     $('.menusets button').not(this).removeClass('active');
+    //     $(this).addClass('active');
+    //     $('.productsdetails').addClass('active');
+    //     $('.productitem').not('#' + togglemenuId).removeClass('active');
+    //     $('#' + togglemenuId).addClass('active');
+    // });
+
+    // // Applications Menu Navigation
+    // $('.applica-listing').click(function() {
+    //     $('.products-menu').removeClass('active');
+    //     $('.about-menu').removeClass('active');
+    //     $('.resource-menu').removeClass('active');
+    //     $('.firstmenulist').removeClass('active');
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.applications-menu').toggleClass('active');
+    //     setTimeout(function() {
+    //         $('.applications-menu .firstmenulist').addClass('active');
+    //     }, 50);
+    // });
+
+    // // AboutMenu Navigation
+
+    // $('.about-listing').click(function() {
+    //     $('.products-menu').removeClass('active');
+    //     $('.resource-menu').removeClass('active');
+    //     $('.firstmenulist').removeClass('active');
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.applications-menu').removeClass('active');
+    //     $('.about-menu').toggleClass('active');
+    //     setTimeout(function() {
+    //         $('.about-menu .firstmenulist').addClass('active');
+    //     }, 50);
+    // });
+
+    // // ResourceMenu Navigation
+
+    // $('.resource-listing').click(function() {
+    //     $('.products-menu').removeClass('active');
+    //     $('.about-menu').removeClass('active');
+    //     $('.firstmenulist').removeClass('active');
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.applications-menu').removeClass('active');
+    //     $('.resource-menu').toggleClass('active');
+    //     setTimeout(function() {
+    //         $('.resource-menu .firstmenulist').addClass('active');
+    //     }, 50);
+    // });
+
+
+    // // Menu Close button
+    // $('.productsdetails .closemenu').click(function() {
+    //     $('.productsdetails').removeClass('active');
+    //     $('.productitem').removeClass('active');
+    // });
+    // $('.secondmenulist .closemenu').click(function() {
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.productitem').removeClass('active');
+    // });
+    // $('.firstmenulist .closemenu').click(function() {
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.secondmenulist').removeClass('active');
+    //     $('.productsdetails').removeClass('active');
+    //     $('.productitem').removeClass('active');
+    //     $('.products-menu').removeClass('active');
+    //     $('.applications-menu').removeClass('active');
+    //     $('.about-menu').removeClass('active');
+    //     $('.resource-menu').removeClass('active');
+    // });
+});
+
+function subscribe() {
+    var subscription_email = $('input[name="subscription_email"]').val().trim();
+    var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    if (!emailPattern.test(subscription_email) || !subscription_email) {        
+        $('input[name="subscription_email"]').closest('.form-control').css('border', '1px solid red');
+        return false;
+    }    
+    $('input[name="subscription_email"]').closest('.form-control').css('border', '#dee2e6');
+
+    var postData = {subscription_email: subscription_email, type: 'subscribe_newsletter'};
+    $('.btn-subscribe').html('wait..').attr('disabled',true);    
+    $.ajax({
+        url: 'ajaxcall.php',
+        type: 'POST',
+        data: postData,
+        dataType: 'json',        
+        success: function(res) {
+             console.log(res);
+            if(res.status === true)
+                $('.btn-subscribe').html('Done!').attr('disabled',false);
+        },
+    });
+}
+
+</script> <script src="assets/external/cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.match').matchHeight();
+        // Video Slider
+        let $vslide = $('.videoslider');
+        $vslide.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            dotsEach: true,
+            margin: 20,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+            },
+        });
+        $(".prev").on("click", function() {
+            $vslide.trigger("prev.owl.carousel");
+        });
+
+        $(".next").on("click", function() {
+            $vslide.trigger("next.owl.carousel");
+        });
+
+        $('.playvideo').click(function() {
+            $('#videoModal').modal('show');
+            var videoUrl = $(this).data('video');
+            $('#videoIframe').attr('src', videoUrl);
+        });
+        $('#videoModal').on('hidden.bs.modal', function() {
+            $('#videoIframe').attr('src', '');
+        });
+        $('.close').click(function() {
+            $('.modal').modal('hide');
+        });
+
+        // Product show Slider
+        let $productshow = $(".product-show");
+        $productshow.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            dotsEach: true,
+            margin: 20,
+            center: true,
+            items: 1,
+        });
+
+        // Key Feature Slide
+        let $keyfeatureSlide = $(".keyfeatures-slide");
+        $keyfeatureSlide.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: true,
+            navText: [
+                        '<img src="images/svg/prime-arrow.svg" class="img-fluid">',
+                        '<img src="images/svg/prime-arrow.svg" class="img-fluid">'
+                    ],
+            dots: false,
+            margin: 20,
+            // center: true,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                500: {
+                    items: 2,
+                },
+                700: {
+                    items: 3,
+                },
+                992: {
+                    items: 4,
+                },
+                1200: {
+                    items: 5,
+                },
+            },
+        });
+
+        // Residential Slider
+        let $applications = $(".application");
+        $applications.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            dotsEach: true,
+            margin: 20,
+            // center: true,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                500: {
+                    items: 1.5,
+                },
+                700: {
+                    items: 2,
+                },
+                
+                  900: {
+                    items: 2.5,
+                },
+                1200: {
+                    items: 3,
+                },
+                1500: {
+                    items: 4,
+                },
+            },
+        });
+        $(".prev.app").on("click", function() {
+            $applications.trigger("prev.owl.carousel");
+        });
+
+        $(".next.app").on("click", function() {
+            $applications.trigger("next.owl.carousel");
+        });
+
+        // application Project Showcase
+        let $projectShowcase = $('.showcase');
+        $projectShowcase.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: false,
+            dots: true,
+            dotsEach: true,
+            margin: 30,
+            // center: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    center: false,
+                },
+                500: {
+                    items: 1.5,
+                    center: false,
+                },
+                600: {
+                    items: 2,
+                },
+                1100: {
+                    items: 3,
+                },
+                1400: {
+                    items: 4,
+                },
+            },
+        });
+        $(".prev.maj").on("click", function() {
+            $projectShowcase.trigger("prev.owl.carousel");
+        });
+
+        $(".next.maj").on("click", function() {
+            $projectShowcase.trigger("next.owl.carousel");
+        });
+
+        $('.accordion h5').click(function() {
+            $('.collapse').collapse('hide');
+        });
+    });
+    </script>
+</body>
+<script src="assets/external/cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</html>
